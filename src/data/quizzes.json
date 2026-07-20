@@ -1,0 +1,29 @@
+[
+  {
+    "id": "quiz-poetry-1",
+    "title": "Poetry Fundamentals",
+    "questions": [
+      {
+        "text": "What is the primary effect of a poet using an end-stopped line?",
+        "options": [
+          "To speed up the reading pace.",
+          "To force a moment of reflection and slow the rhythm.",
+          "To confuse the reader.",
+          "To make the poem rhyme better."
+        ],
+        "correctIndex": 1,
+        "explanation": "End-stopped lines create natural pauses, forcing the reader to stop and consider the preceding thought."
+      },
+      {
+        "text": "Which of these is TRUE analysis rather than 'feature spotting'?",
+        "options": [
+          "The poet uses a simile when they say 'like a ghost'.",
+          "The simile 'like a ghost' shows that the character is pale.",
+          "The simile 'like a ghost' connotes erasure and marginalization, suggesting the character has been stripped of their identity and societal presence."
+        ],
+        "correctIndex": 2,
+        "explanation": "Option 3 identifies the technique (simile), analyzes the connotations (erasure), and connects it to a deeper meaning (societal presence)."
+      }
+    ]
+  }
+]

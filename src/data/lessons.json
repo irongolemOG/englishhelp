@@ -1,0 +1,301 @@
+[
+  {
+    "id": "intro-to-analysis",
+    "level": 1,
+    "title": "What is Literary Analysis? (And What It Isn't)",
+    "overview": "Before we dive into complex terminology, we must unlearn a common bad habit: 'feature spotting'. This lesson explains the core difference between identifying a technique and actually analyzing it.",
+    "learningObjectives": [
+      "Understand the difference between summarising, identifying, and analysing.",
+      "Learn the core IB analysis framework: What, How, Why.",
+      "Stop relying on 'feature spotting'."
+    ],
+    "prerequisites": [
+      "None. Absolute Beginner."
+    ],
+    "content": [
+      {
+        "type": "text",
+        "content": "In previous years, you might have been rewarded simply for pointing out that a writer used a metaphor. In the IB Diploma Programme, pointing out a metaphor without explaining its effect is like pointing at a car engine and saying, 'That's an engine,' without explaining how it makes the car move."
+      },
+      {
+        "type": "analogy",
+        "content": "Imagine a detective at a crime scene. Finding a muddy footprint is 'identification'. Explaining *how* the footprint got there and *why* it proves the suspect was running away in a panic is 'analysis'. Be the detective, not just the evidence collector."
+      },
+      {
+        "type": "mistake",
+        "content": "**Feature Spotting:** 'The author uses the metaphor \"the classroom was a zoo\" to show that it was loud.' \n\n*Why is this bad?* It just translates the metaphor. It doesn't analyze the *effect* of comparing students to wild animals."
+      },
+      {
+        "type": "examiner",
+        "content": "Examiners are looking for 'insight' and 'evaluation'. They want you to discuss the *author's intent*. Did the author want to make the reader feel disgusted? Sympathetic? Shocked? Always connect the technique to the author's purpose."
+      },
+      {
+        "type": "takeaway",
+        "content": "Analysis = Technique + Effect + Purpose."
+      },
+      {
+        "type": "quiz",
+        "metadata": {
+          "question": "Which of the following is an example of TRUE analysis?",
+          "options": [
+            "The poet uses anaphora when they repeat 'I have a dream'.",
+            "The repetition of 'I have a dream' emphasizes the speaker's dream.",
+            "By repeating the phrase 'I have a dream', King builds a rhythmic, sermon-like cadence that unifies the crowd under a shared vision of a utopian future."
+          ],
+          "correctIndex": 2,
+          "explanation": "Option 3 identifies the technique (repetition), explains the effect (rhythmic cadence), and links it to the purpose (unifying the crowd)."
+        },
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "mastering-diction",
+    "level": 4,
+    "title": "Mastering Diction: The Power of a Single Word",
+    "overview": "Words are an author's only tools. This lesson teaches you how to zoom in on specific words (lexical choices) and unpack their hidden meanings (connotations) to build a powerful Level 7 argument.",
+    "learningObjectives": [
+      "Distinguish between denotation (dictionary definition) and connotation (emotional meaning).",
+      "Learn how to 'zoom in' on specific words in an exam essay.",
+      "Understand how diction creates tone and atmosphere."
+    ],
+    "prerequisites": [
+      "Understanding of Tone",
+      "Basic paragraph structure"
+    ],
+    "content": [
+      {
+        "type": "text",
+        "content": "Diction simply means 'word choice'. But in IB English, we don't just say 'the author uses good diction'. We must specify the *type* of diction. Is it aggressive? Clinical? Melancholic? Every word is a deliberate choice. If an author writes that a character 'slithered' into a room instead of 'walked', they are doing that on purpose."
+      },
+      {
+        "type": "visual",
+        "content": "Think of an iceberg. The tip above the water is the **Denotation** (the literal meaning). The massive chunk of ice hidden underwater is the **Connotation** (the emotional weight, associations, and cultural implications of the word). We must dive underwater."
+      },
+      {
+        "type": "example",
+        "content": "Consider these three words: Home, House, Residence.\nThey all denote (mean) 'a place where someone lives'. \nBut they connote very different things:\n- **Home:** Warmth, family, comfort, safety.\n- **House:** A physical building, bricks and mortar, neutral.\n- **Residence:** Formal, cold, legal, temporary."
+      },
+      {
+        "type": "task",
+        "metadata": {
+          "prompt": "Read the following quote: 'The fog choked the narrow streets.' Zoom in on the word 'choked'. What are its connotations?",
+          "hints": [
+            "What does choking physically feel like?",
+            "Is it an act of violence?"
+          ]
+        },
+        "content": ""
+      },
+      {
+        "type": "level7",
+        "metadata": {
+          "text": "By employing the violent verb 'choked' to describe the fog, the author immediately establishes a claustrophobic and hostile atmosphere. The diction connotes suffocation and malice, personifying the natural environment not as a passive setting, but as an active, predatory force that physically suppresses the city's inhabitants. This subtle lexical choice primes the reader for the overarching theme of urban entrapment."
+        },
+        "content": ""
+      },
+      {
+        "type": "memoryTrick",
+        "content": "**ZOOM**: **Z**ero in on the word. **O**bserve the denotation. **O**utline the connotations. **M**ap it back to the theme."
+      }
+    ]
+  },
+  {
+    "id": "structure-enjambment",
+    "level": 5,
+    "title": "Structure: Analyzing Enjambment Like a Pro",
+    "overview": "Many students ignore structure because it's harder to spot than a metaphor. Mastering structural analysis, particularly enjambment in poetry, is the fastest way to differentiate yourself and score a Level 7.",
+    "learningObjectives": [
+      "Understand how line breaks manipulate reading pace.",
+      "Analyze the psychological effect of enjambment on the reader.",
+      "Connect structural choices to emotional states (like anxiety, fluidity, or chaos)."
+    ],
+    "prerequisites": [
+      "Intro to Poetry",
+      "Caesura"
+    ],
+    "content": [
+      {
+        "type": "text",
+        "content": "Enjambment occurs when a sentence or thought spills over from one line of poetry to the next without any punctuation to stop it. It forces the reader's eye to drop down immediately to finish the thought."
+      },
+      {
+        "type": "analogy",
+        "content": "Reading an end-stopped line (a line with a period at the end) is like driving and stopping at a red light. You get a moment to rest. Reading enjambment is like driving down a steep hill with no brakes—you are pulled forward uncontrollably."
+      },
+      {
+        "type": "examiner",
+        "content": "An examiner reads a thousand essays saying 'enjambment makes it flow'. This is a guaranteed Level 4 answer. A Level 7 student explains *why* the author wants the reader to rush forward. Is it to mimic a panic attack? Is it to show the unstoppable passage of time? Is it to create a sense of breathlessness?"
+      },
+      {
+        "type": "mistake",
+        "content": "Never write: 'The author uses enjambment to make the poem flow.' It is too vague and often incorrect. Instead, write: 'The enjambment accelerates the rhythm, mirroring the speaker's escalating panic.'"
+      },
+      {
+        "type": "quiz",
+        "metadata": {
+          "question": "If a poet is describing a calm, peaceful lake, are they more likely to use heavy enjambment or end-stopped lines?",
+          "options": [
+            "Heavy enjambment, to show the water flowing fast.",
+            "End-stopped lines, to force the reader to pause, breathe, and reflect on the stillness.",
+            "Caesura, to break the water."
+          ],
+          "correctIndex": 1,
+          "explanation": "End-stopped lines create calm, measured pauses. Heavy enjambment usually creates urgency or chaos, which contradicts a peaceful setting."
+        },
+        "content": ""
+      },
+      {
+        "type": "summary",
+        "content": "Enjambment = No punctuation at line end = Forced rapid reading = Creates urgency/chaos/fluidity."
+      }
+    ]
+  },
+  {
+    "id": "sound-and-rhythm",
+    "level": 5,
+    "title": "Sound & Rhythm: Unlocking Iambic Meter",
+    "overview": "Sound is what makes poetry distinct from prose. Examiners want to see you connect rhythm and meter to the emotional core of the text. This module covers meter, specifically Iambic Rhythm, and how to write about it effectively.",
+    "learningObjectives": [
+      "Understand what Iambic Rhythm is and why poets use it.",
+      "Learn to connect meter to a poem's mood and tone.",
+      "Avoid simply listing rhyme schemes without analysis."
+    ],
+    "prerequisites": [
+      "Intro to Poetry"
+    ],
+    "content": [
+      {
+        "type": "text",
+        "content": "Rhythm in poetry is created by stressed and unstressed syllables. The most common rhythm in English poetry is **Iambic Rhythm** (or Iambic Meter). An 'iamb' is a pair of syllables where the first is unstressed and the second is stressed (da-DUM). For example: 'to-DAY', 'a-WAY', 'be-LONG'."
+      },
+      {
+        "type": "analogy",
+        "content": "Iambic rhythm (da-DUM da-DUM da-DUM) mimics two very important natural sounds: the beating of a human heart, and the sound of footsteps. When a poet uses iambic meter, they are often trying to make the poem feel natural, conversational, or emotionally grounded."
+      },
+      {
+        "type": "examiner",
+        "content": "Examiners hate it when you just write: 'The poem is in iambic pentameter.' So what? A Level 7 student writes: 'The steady iambic meter mirrors the speaker's calm, rhythmic heartbeat as they accept their fate, creating a sense of inevitability.'"
+      },
+      {
+        "type": "example",
+        "content": "If a poet breaks the iambic rhythm (e.g. suddenly using a harsh stressed syllable at the start of a line), it is called a **trochaic inversion**. Poets do this intentionally to jolt the reader, mimicking a sudden shock, disruption, or moment of realization. **Always analyze the disruption.**"
+      },
+      {
+        "type": "level7",
+        "metadata": {
+          "text": "By grounding the stanza in a predictable iambic rhythm, the poet lulls the reader into a false sense of security. However, the sudden trochaic inversion in the final line ('SHATTERED the glass') violently disrupts this meter, forcing a jarring phonetic pause that perfectly mirrors the sudden destruction of the speaker's domestic peace."
+        },
+        "content": ""
+      }
+    ]
+  },
+  {
+    "id": "figurative-language",
+    "level": 3,
+    "title": "Figurative Language: Beyond the Literal",
+    "overview": "Similes, metaphors, personification. We all know what they are. But how do you analyze them for a Level 7? This lesson explores how to unpack imagery.",
+    "learningObjectives": [
+      "Deconstruct metaphors into tenor and vehicle.",
+      "Analyze personification as a thematic tool."
+    ],
+    "prerequisites": [
+      "Intro to Analysis"
+    ],
+    "content": [
+      {
+        "type": "text",
+        "content": "When analyzing a metaphor, you must identify two things: the **Tenor** (the thing being described) and the **Vehicle** (the object it is being compared to). Analysis is the process of explaining how the attributes of the Vehicle change our understanding of the Tenor."
+      },
+      {
+        "type": "example",
+        "content": "Metaphor: 'The classroom was a zoo.'\nTenor: The classroom.\nVehicle: A zoo.\nAnalysis: By comparing the classroom to a zoo, the author connotes a complete loss of civilized order, suggesting the students have reverted to primal, chaotic instincts, while framing the teacher as a powerless zookeeper."
+      }
+    ]
+  },
+  {
+    "id": "starting-an-analysis",
+    "level": 6,
+    "title": "How to Start an Analysis (The Perfect Introduction)",
+    "overview": "The opening paragraph sets the tone for your entire essay. If you start strong, the examiner trusts you immediately. This module gives you the thought process and frameworks to write a compelling, high-scoring introduction for any text.",
+    "learningObjectives": [
+      "Learn the components of a Level 7 introduction.",
+      "Formulate a strong, argumentative thesis statement.",
+      "Avoid the dreaded 'summary' introduction."
+    ],
+    "prerequisites": [
+      "Mastering Diction",
+      "Structure"
+    ],
+    "content": [
+      {
+        "type": "mistake",
+        "content": "Never start an essay with a generic hook like: 'Since the dawn of time, humanity has struggled with love.' Examiners hate this. It wastes time. Get straight to the text."
+      },
+      {
+        "type": "text",
+        "content": "A perfect introduction does three things (The 3 Ts):\n1. **Text & Context:** Introduce the author, title, and the core situation of the extract.\n2. **Tone & Tension:** Identify the primary mood of the piece and the central conflict (e.g. 'a melancholic tone that highlights the tension between freedom and duty').\n3. **Thesis:** Your main argument. What is the author's ultimate purpose in this extract, and what 2-3 main stylistic choices do they use to achieve it?"
+      },
+      {
+        "type": "visual",
+        "content": "Thought Process for your Thesis:\nAsk yourself: 'What is the author trying to make the reader realize?' -> 'How do they do it?'\nInstead of: 'The author uses metaphors and tone to show the character is sad.'\nThink: 'Through oppressive sensory imagery and fragmented syntax, the author constructs a deeply melancholic tone to critique the dehumanizing effects of urban isolation.'"
+      },
+      {
+        "type": "example",
+        "content": "Example of a Level 7 Opening:\n\n'In this extract from [Text], [Author] explores the psychological burden of grief. Through the progression from claustrophobic sensory imagery to a frantic, enjambed syntax, [Author] establishes a highly volatile tone. Ultimately, the text serves to expose how unresolved trauma inevitably corrupts one's perception of reality, forcing the protagonist into a state of sensory overload.'"
+      },
+      {
+        "type": "takeaway",
+        "content": "A strong thesis doesn't just list literary devices. It pairs a **stylistic choice** with a **thematic purpose**."
+      }
+    ]
+  },
+  {
+    "id": "ending-poetry-analysis",
+    "level": 6,
+    "title": "How to End a Poetry Analysis (The 'So What?' Conclusion)",
+    "overview": "A common mistake in poetry analysis is ending with a boring summary. A Level 7 conclusion must zoom out, evaluate the poet's ultimate message, and answer the 'So What?' question.",
+    "learningObjectives": [
+      "Stop writing repetitive 'In conclusion...' summaries.",
+      "Learn to connect the poem's micro-details back to a universal macro-theme.",
+      "Leave the examiner with a powerful final thought (evaluation)."
+    ],
+    "prerequisites": [
+      "Intro to Analysis",
+      "Mastering Diction"
+    ],
+    "content": [
+      {
+        "type": "text",
+        "content": "The conclusion is the last thing the examiner reads before giving you a grade. If your conclusion is just a copy-paste of your introduction, you are wasting an opportunity to demonstrate Level 7 evaluation. You must move from the *micro* (the poem's techniques) to the *macro* (the real world)."
+      },
+      {
+        "type": "mistake",
+        "content": "**The Summary Trap:** 'In conclusion, the poet uses metaphors, enjambment, and strong diction to show that war is bad and destroys nature.' \n\n*Why is this bad?* It adds no new insight. It just repeats what you already proved in the body paragraphs."
+      },
+      {
+        "type": "analogy",
+        "content": "Think of an essay like a telescope. The introduction points the telescope at a specific star (the thesis). The body paragraphs swap in high-powered lenses to look at the craters and dust (zooming in on diction/structure). The conclusion takes the eye away from the lens to look at the entire night sky. You must contextualise the poem."
+      },
+      {
+        "type": "examiner",
+        "content": "IB Examiners award the highest marks in Criterion B (Analysis and Evaluation) and Criterion C (Focus and Organization) to students whose conclusions synthesize their arguments to reveal a deeper truth about the human condition or the poet's societal critique."
+      },
+      {
+        "type": "example",
+        "content": "**A Level 7 Conclusion Formula:**\n\n1. **Synthesize, don't summarize:** Briefly tie your main points together without listing them.\n2. **The Ultimate Purpose:** Reiterate *why* the poet wrote this. What societal flaw are they attacking? What universal emotion are they exploring?\n3. **The 'So What?' / Final Thought:** End with a profound statement about how this poem relates to the human condition, or how it challenges the reader's perspective."
+      },
+      {
+        "type": "level7",
+        "metadata": {
+          "text": "Ultimately, Owen's visceral depiction of the gas attack does more than simply recount a historical tragedy; it serves as a violent demystification of the 'old Lie' of jingoistic patriotism. By juxtaposing the grotesque physical reality of the dying soldier with the elevated, Latin rhetoric of the establishment, Owen forces the reader into an uncomfortable complicity. The poem concludes not just as a memorial to the fallen, but as an eternal indictment of the governments that enthusiastically send youth to slaughter, rendering the patriotic glorification of war forever morally bankrupt."
+        },
+        "content": ""
+      },
+      {
+        "type": "memoryTrick",
+        "content": "**ZOOM OUT:** If your introduction is a map, your conclusion is the view from space. Answer the question: *Why does this poem matter today?*"
+      }
+    ]
+  }
+]

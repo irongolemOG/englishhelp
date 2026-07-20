@@ -1,0 +1,1740 @@
+[
+  {
+    "id": "elucidates",
+    "word": "Elucidates",
+    "category": "Analysis verbs",
+    "meaning": "To make something clear; to explain.",
+    "whenToUse": "When an author's choice clarifies a complex theme, character motivation, or confusing situation.",
+    "whenNotToUse": "When the author is simply stating a fact (use 'states' or 'notes').",
+    "examples": [
+      "The protagonist's internal monologue elucidates the deep-seated fears driving her erratic behavior."
+    ],
+    "synonyms": [
+      "Clarifies",
+      "Illuminates",
+      "Explicates"
+    ],
+    "commonMistakes": "Using it as a synonym for 'shows' when the concept being 'shown' isn't actually complex or hidden.",
+    "replaces": [
+      "shows",
+      "explains",
+      "makes clear"
+    ]
+  },
+  {
+    "id": "underscores",
+    "word": "Underscores",
+    "category": "Analysis verbs",
+    "meaning": "To emphasize or show the importance of something.",
+    "whenToUse": "When a specific technique (like repetition or setting) is used to draw attention to a key theme or emotion.",
+    "whenNotToUse": "When the author introduces a completely new idea (use 'introduces' or 'establishes').",
+    "examples": [
+      "The recurring motif of decay underscores the corrupt nature of the aristocracy."
+    ],
+    "synonyms": [
+      "Emphasizes",
+      "Highlights",
+      "Accentuates"
+    ],
+    "commonMistakes": "Using it without explaining *what* makes it an emphasis. You must prove the emphasis.",
+    "replaces": [
+      "shows",
+      "points out",
+      "highlights"
+    ]
+  },
+  {
+    "id": "subverts",
+    "word": "Subverts",
+    "category": "Interpretation verbs",
+    "meaning": "To undermine the power and authority of an established system, idea, or expectation.",
+    "whenToUse": "When an author sets up a cliché, stereotype, or genre convention, and then does the exact opposite to make a point.",
+    "whenNotToUse": "When a character simply disobeys a rule.",
+    "examples": [
+      "By portraying the monster as the most empathetic character, Shelley subverts traditional gothic expectations of monstrosity."
+    ],
+    "synonyms": [
+      "Undermines",
+      "Destabilizes",
+      "Overturns"
+    ],
+    "commonMistakes": "Confusing it with 'challenges'. Subversion implies a more structural overturning from within.",
+    "replaces": [
+      "goes against",
+      "breaks the rules of"
+    ]
+  },
+  {
+    "id": "evokes",
+    "word": "Evokes",
+    "category": "Analysis verbs",
+    "meaning": "To bring or recall a feeling, memory, or image to the conscious mind.",
+    "whenToUse": "When discussing the atmosphere, mood, or emotional response created by imagery or diction.",
+    "whenNotToUse": "When an author explicitly states how a character feels.",
+    "examples": [
+      "The harsh, guttural consonance evokes a visceral sense of physical pain in the reader."
+    ],
+    "synonyms": [
+      "Elicits",
+      "Induces",
+      "Summons"
+    ],
+    "commonMistakes": "Saying 'the author evokes that...' (Grammatically incorrect. Evoke requires an object, e.g., 'evokes a sense of...').",
+    "replaces": [
+      "makes you feel",
+      "creates a feeling of"
+    ]
+  },
+  {
+    "id": "polarizing",
+    "word": "Polarizing",
+    "category": "Evaluation verbs",
+    "meaning": "Causing strong and contrasting opinions.",
+    "whenToUse": "When evaluating an author's provocative choice that deliberately divides the audience's sympathies.",
+    "whenNotToUse": "When a character is universally hated (that's just 'despicable').",
+    "examples": [
+      "The ending of the novel is deliberately polarizing, forcing the reader to evaluate their own moral compass."
+    ],
+    "synonyms": [
+      "Divisive",
+      "Controversial",
+      "Alienating"
+    ],
+    "commonMistakes": "Using it to mean 'bad'. Polarizing means it draws people to opposite extremes.",
+    "replaces": [
+      "makes people argue",
+      "controversial"
+    ]
+  },
+  {
+    "id": "didactic",
+    "word": "Didactic",
+    "category": "Tone words",
+    "meaning": "Intended to teach, particularly in having moral instruction as an ulterior motive.",
+    "whenToUse": "When a narrator or poem sounds preachy, instructional, or overly focused on delivering a moral lesson.",
+    "whenNotToUse": "When the text explores themes ambiguously without offering a clear 'lesson'.",
+    "examples": [
+      "The speaker's didactic tone alienates the reader, shifting the poem from a personal reflection to a moral lecture."
+    ],
+    "synonyms": [
+      "Instructional",
+      "Pedagogic",
+      "Preachy"
+    ],
+    "commonMistakes": "Using it as a compliment. In modern literary analysis, calling a text 'didactic' is often a criticism of its lack of subtlety.",
+    "replaces": [
+      "teaching a lesson",
+      "bossy",
+      "educational"
+    ]
+  },
+  {
+    "id": "visceral",
+    "word": "Visceral",
+    "category": "Evaluation verbs",
+    "meaning": "Relating to deep inward feelings rather than to the intellect.",
+    "whenToUse": "When imagery or action is so intense or graphic that the reader reacts physically (e.g., disgust, shock, deep sadness).",
+    "whenNotToUse": "When the reaction is purely logical or thoughtful.",
+    "examples": [
+      "The poet's use of medical jargon creates a visceral reaction of discomfort."
+    ],
+    "synonyms": [
+      "Instinctive",
+      "Deep-rooted",
+      "Gut-wrenching"
+    ],
+    "commonMistakes": "Using it to describe mild emotions.",
+    "replaces": [
+      "strong feeling",
+      "intense"
+    ]
+  },
+  {
+    "id": "juxtaposes",
+    "word": "Juxtaposes",
+    "category": "Structural terminology",
+    "meaning": "Places or deals with close together for contrasting effect.",
+    "whenToUse": "When discussing structure, particularly how paragraphs, stanzas, or scenes are ordered to create contrast.",
+    "whenNotToUse": "When things are just vaguely different.",
+    "examples": [
+      "The director juxtaposes the chaotic battle scene with the silent, empty war room to highlight the detachment of the generals."
+    ],
+    "synonyms": [
+      "Contrasts",
+      "Places side-by-side"
+    ],
+    "commonMistakes": "Forgetting to explain *why* they are juxtaposed.",
+    "replaces": [
+      "puts next to",
+      "compares"
+    ]
+  },
+  {
+    "id": "pervasive",
+    "word": "Pervasive",
+    "category": "Evaluation verbs",
+    "meaning": "Spreading widely throughout an area or a group of people.",
+    "whenToUse": "When an idea, theme, or atmosphere is present everywhere in the text.",
+    "whenNotToUse": "When something only happens once or in one scene.",
+    "examples": [
+      "The pervasive sense of dread in the opening chapters foreshadows the tragic climax."
+    ],
+    "synonyms": [
+      "Omnipresent",
+      "Ubiquitous",
+      "Widespread"
+    ],
+    "commonMistakes": "Using it for physical objects rather than abstract concepts or atmospheres.",
+    "replaces": [
+      "everywhere",
+      "all over the place"
+    ]
+  },
+  {
+    "id": "inexorable",
+    "word": "Inexorable",
+    "category": "Tone words",
+    "meaning": "Impossible to stop or prevent.",
+    "whenToUse": "When discussing fate, time, or a tragic downfall that cannot be avoided.",
+    "whenNotToUse": "When characters have free will and can easily change their situation.",
+    "examples": [
+      "The inexorable passage of time acts as the true antagonist of the novel."
+    ],
+    "synonyms": [
+      "Relentless",
+      "Unstoppable",
+      "Inevitable"
+    ],
+    "commonMistakes": "Confusing it with 'stubborn' (which applies to people, not forces).",
+    "replaces": [
+      "unstoppable",
+      "can't be stopped"
+    ]
+  },
+  {
+    "id": "ephemeral",
+    "word": "Ephemeral",
+    "category": "Evaluation verbs",
+    "meaning": "Lasting for a very short time.",
+    "whenToUse": "When discussing the fleeting nature of youth, beauty, or happiness in poetry.",
+    "whenNotToUse": "When referring to permanent or long-lasting structural issues.",
+    "examples": [
+      "The poet captures the ephemeral beauty of the cherry blossoms, symbolizing the fragility of life."
+    ],
+    "synonyms": [
+      "Fleeting",
+      "Transient",
+      "Momentary"
+    ],
+    "commonMistakes": "Using it to describe something small rather than something short-lived.",
+    "replaces": [
+      "short",
+      "temporary"
+    ]
+  },
+  {
+    "id": "pragmatic",
+    "word": "Pragmatic",
+    "category": "Tone words",
+    "meaning": "Dealing with things sensibly and realistically based on practical rather than theoretical considerations.",
+    "whenToUse": "When a character or narrator makes choices based on survival or logic rather than emotion.",
+    "whenNotToUse": "When describing romantic, idealistic, or emotional choices.",
+    "examples": [
+      "Her pragmatic approach to marriage contrasts sharply with the protagonist's romantic idealism."
+    ],
+    "synonyms": [
+      "Practical",
+      "Realistic",
+      "Sensible"
+    ],
+    "commonMistakes": "Confusing it with 'cynical'—pragmatism isn't inherently negative, just practical.",
+    "replaces": [
+      "practical",
+      "realistic",
+      "logical"
+    ]
+  },
+  {
+    "id": "ostentatious",
+    "word": "Ostentatious",
+    "category": "Evaluation verbs",
+    "meaning": "Characterized by vulgar or pretentious display; designed to impress or attract notice.",
+    "whenToUse": "When analyzing characters who show off their wealth or status, often to critique upper-class vanity.",
+    "whenNotToUse": "When describing genuine elegance or understated beauty.",
+    "examples": [
+      "The ostentatious descriptions of Gatsby's parties serve to highlight the superficiality of the Jazz Age."
+    ],
+    "synonyms": [
+      "Showy",
+      "Pretentious",
+      "Flamboyant"
+    ],
+    "commonMistakes": "Using it merely to mean 'expensive' rather than 'showy to the point of being tasteless'.",
+    "replaces": [
+      "showy",
+      "fancy",
+      "flashy"
+    ]
+  },
+  {
+    "id": "melancholic",
+    "word": "Melancholic",
+    "category": "Tone words",
+    "meaning": "Feeling or expressing pensive sadness.",
+    "whenToUse": "When the tone is quietly sad, reflective, and sorrowful, rather than aggressively angry or tragic.",
+    "whenNotToUse": "When describing sudden, violent grief.",
+    "examples": [
+      "The melancholic imagery of the setting sun perfectly mirrors the protagonist's fading hopes."
+    ],
+    "synonyms": [
+      "Sorrowful",
+      "Despondent",
+      "Mournful"
+    ],
+    "commonMistakes": "Using it interchangeably with 'depressed'; melancholic often implies a poetic, lingering sadness.",
+    "replaces": [
+      "sad",
+      "gloomy"
+    ]
+  },
+  {
+    "id": "nostalgic",
+    "word": "Nostalgic",
+    "category": "Tone words",
+    "meaning": "Characterized by or exhibiting feelings of sentimental longing for the past.",
+    "whenToUse": "When a character or narrator romantically yearns for a previous era or childhood.",
+    "whenNotToUse": "When the past is remembered with horror or trauma.",
+    "examples": [
+      "The speaker's nostalgic tone reveals a deep dissatisfaction with the modernized, industrial present."
+    ],
+    "synonyms": [
+      "Sentimental",
+      "Wistful",
+      "Reminiscent"
+    ],
+    "commonMistakes": "Assuming nostalgia is always a happy feeling; it often contains a bittersweet ache for what is lost.",
+    "replaces": [
+      "missing the past",
+      "looking back"
+    ]
+  },
+  {
+    "id": "ambiguous",
+    "word": "Ambiguous",
+    "category": "Evaluation verbs",
+    "meaning": "Open to more than one interpretation; having a double meaning.",
+    "whenToUse": "When an author intentionally leaves an ending, motive, or symbol unclear to provoke thought.",
+    "whenNotToUse": "When you just don't understand the text. Ambiguity is a deliberate authorial choice.",
+    "examples": [
+      "The ambiguous ending forces the reader to confront their own moral assumptions about justice."
+    ],
+    "synonyms": [
+      "Equivocal",
+      "Cryptic",
+      "Enigmatic"
+    ],
+    "commonMistakes": "Writing 'The author is ambiguous' instead of 'The ending is ambiguous'. Authors aren't ambiguous, their texts are.",
+    "replaces": [
+      "confusing",
+      "unclear",
+      "hard to understand"
+    ]
+  },
+  {
+    "id": "subdued",
+    "word": "Subdued",
+    "category": "Tone words",
+    "meaning": "Quiet and rather reflective or depressed.",
+    "whenToUse": "When a previously loud or energetic text/character becomes quiet, muted, or restrained.",
+    "whenNotToUse": "When describing a vibrant, energetic climax.",
+    "examples": [
+      "Following the violent climax, the syntax becomes sparse and the tone heavily subdued, reflecting the aftermath of trauma."
+    ],
+    "synonyms": [
+      "Restrained",
+      "Muted",
+      "Somber"
+    ],
+    "commonMistakes": "Confusing it with 'boring'. Subdued is a powerful, deliberate quietness.",
+    "replaces": [
+      "quiet",
+      "calm",
+      "toned down"
+    ]
+  },
+  {
+    "id": "ominous",
+    "word": "Ominous",
+    "category": "Tone words",
+    "meaning": "Giving the impression that something bad or unpleasant is going to happen.",
+    "whenToUse": "When describing pathetic fallacy (e.g. dark clouds) or foreshadowing that hints at tragedy.",
+    "whenNotToUse": "When the bad event has already happened.",
+    "examples": [
+      "The ominous silence of the village creates an atmosphere of mounting suspense."
+    ],
+    "synonyms": [
+      "Foreboding",
+      "Sinister",
+      "Menacing"
+    ],
+    "commonMistakes": "Using it to describe something that is currently hurting the character, rather than the *threat* of hurt.",
+    "replaces": [
+      "scary",
+      "creepy",
+      "bad feeling"
+    ]
+  },
+  {
+    "id": "poignant",
+    "word": "Poignant",
+    "category": "Evaluation verbs",
+    "meaning": "Evoking a keen sense of sadness or regret.",
+    "whenToUse": "When a moment in the text is deeply moving, often because it touches on universal human vulnerabilities.",
+    "whenNotToUse": "When a scene is purely action-driven or comedic.",
+    "examples": [
+      "The final reunion is a poignant reminder of the time stolen from them by the war."
+    ],
+    "synonyms": [
+      "Moving",
+      "Touching",
+      "Heartrending"
+    ],
+    "commonMistakes": "Mispronouncing it in your head (it's POYN-yant) or using it for mildly sad things.",
+    "replaces": [
+      "sad",
+      "touching",
+      "emotional"
+    ]
+  },
+  {
+    "id": "meticulous",
+    "word": "Meticulous",
+    "category": "Evaluation verbs",
+    "meaning": "Showing great attention to detail; very careful and precise.",
+    "whenToUse": "When analyzing an author's highly detailed imagery or a character's obsessive behavior.",
+    "whenNotToUse": "When a text is messy, fragmented, or stream-of-consciousness.",
+    "examples": [
+      "The author's meticulous description of the surgical tools emphasizes the clinical coldness of the institution."
+    ],
+    "synonyms": [
+      "Painstaking",
+      "Careful",
+      "Exact"
+    ],
+    "commonMistakes": "Using it to mean 'good'. It specifically means detailed and precise.",
+    "replaces": [
+      "detailed",
+      "careful"
+    ]
+  },
+  {
+    "id": "cynical",
+    "word": "Cynical",
+    "category": "Tone words",
+    "meaning": "Believing that people are motivated by self-interest; distrustful of human sincerity or integrity.",
+    "whenToUse": "When a narrator or character views society with bitter distrust and assumes the worst of others.",
+    "whenNotToUse": "When a character is just temporarily angry or sad.",
+    "examples": [
+      "The narrator's cynical observations strip away the romantic illusion of the Victorian upper class."
+    ],
+    "synonyms": [
+      "Misanthropic",
+      "Skeptical",
+      "Pessimistic"
+    ],
+    "commonMistakes": "Confusing cynicism with simple sadness. Cynicism is specifically about distrusting motives.",
+    "replaces": [
+      "negative",
+      "distrustful",
+      "pessimistic"
+    ]
+  },
+  {
+    "id": "resolute",
+    "word": "Resolute",
+    "category": "Tone words",
+    "meaning": "Admirably purposeful, determined, and unwavering.",
+    "whenToUse": "When a character refuses to give up or change their mind in the face of adversity.",
+    "whenNotToUse": "When a character is stubbornly making a bad decision (use 'obstinate' instead).",
+    "examples": [
+      "Despite the insurmountable odds, her resolute tone in the final chapter signifies her ultimate empowerment."
+    ],
+    "synonyms": [
+      "Determined",
+      "Unwavering",
+      "Steadfast"
+    ],
+    "commonMistakes": "Using it for characters who are just being stubborn out of ignorance.",
+    "replaces": [
+      "determined",
+      "strong-willed",
+      "not giving up"
+    ]
+  },
+  {
+    "id": "apathetic",
+    "word": "Apathetic",
+    "category": "Tone words",
+    "meaning": "Showing or feeling no interest, enthusiasm, or concern.",
+    "whenToUse": "When an author critiques society's indifference to suffering, or when a character gives up emotionally.",
+    "whenNotToUse": "When someone is actively working against something.",
+    "examples": [
+      "The crowd's apathetic response to the violence highlights the moral decay of the dystopian society."
+    ],
+    "synonyms": [
+      "Indifferent",
+      "Unresponsive",
+      "Passive"
+    ],
+    "commonMistakes": "Confusing it with 'pathetic' (which means pitiful). Apathetic means lacking emotion.",
+    "replaces": [
+      "doesn't care",
+      "bored",
+      "lazy"
+    ]
+  },
+  {
+    "id": "frivolous",
+    "word": "Frivolous",
+    "category": "Evaluation verbs",
+    "meaning": "Not having any serious purpose or value.",
+    "whenToUse": "When critiquing upper-class excess, superficial characters, or meaningless distractions in a text.",
+    "whenNotToUse": "When describing important, serious themes.",
+    "examples": [
+      "The frivolous conversations at the dinner party starkly contrast with the impending doom of the war outside."
+    ],
+    "synonyms": [
+      "Superficial",
+      "Trivial",
+      "Silly"
+    ],
+    "commonMistakes": "Using it to describe something actively evil or malicious. Frivolous implies harmless but useless.",
+    "replaces": [
+      "silly",
+      "useless",
+      "pointless"
+    ]
+  },
+  {
+    "id": "stoic",
+    "word": "Stoic",
+    "category": "Tone words",
+    "meaning": "Enduring pain or hardship without showing feelings or complaining.",
+    "whenToUse": "When a character suffers in silence, often masking deep emotional trauma under a calm exterior.",
+    "whenNotToUse": "When a character is openly crying or complaining.",
+    "examples": [
+      "His stoic demeanor cracks only in the final stanza, revealing the profound depth of his grief."
+    ],
+    "synonyms": [
+      "Enduring",
+      "Forbearing",
+      "Impassive"
+    ],
+    "commonMistakes": "Confusing stoicism with actually not caring (apathy). Stoic implies you feel the pain but hide it.",
+    "replaces": [
+      "not showing emotion",
+      "brave",
+      "quiet"
+    ]
+  },
+  {
+    "id": "capricious",
+    "word": "Capricious",
+    "category": "Evaluation verbs",
+    "meaning": "Given to sudden and unaccountable changes of mood or behavior.",
+    "whenToUse": "When describing unpredictable characters, volatile settings, or the arbitrary nature of fate/gods.",
+    "whenNotToUse": "When something follows a logical, predictable pattern.",
+    "examples": [
+      "The capricious nature of the sea mirrors the unpredictable and dangerous relationship between the two lovers."
+    ],
+    "synonyms": [
+      "Fickle",
+      "Volatile",
+      "Unpredictable"
+    ],
+    "commonMistakes": "Using it to describe someone who simply changed their mind once.",
+    "replaces": [
+      "unpredictable",
+      "changeable",
+      "moody"
+    ]
+  },
+  {
+    "id": "nuanced",
+    "word": "Nuanced",
+    "category": "Evaluation verbs",
+    "meaning": "Characterized by subtle shades of meaning or expression.",
+    "whenToUse": "When an author doesn't just present 'good vs evil', but rather a complex, grey-area situation.",
+    "whenNotToUse": "When a text is heavily allegorical or black-and-white in its morality.",
+    "examples": [
+      "Instead of condemning the antagonist, the author offers a nuanced portrayal of their traumatic childhood."
+    ],
+    "synonyms": [
+      "Subtle",
+      "Complex",
+      "Refined"
+    ],
+    "commonMistakes": "Calling a text nuanced but failing to explain what the two opposing nuances actually are.",
+    "replaces": [
+      "detailed",
+      "complex",
+      "not simple"
+    ]
+  },
+  {
+    "id": "paradigm",
+    "word": "Paradigm",
+    "category": "Evaluation verbs",
+    "meaning": "A typical example or pattern of something; a model.",
+    "whenToUse": "When discussing societal norms, frameworks of thinking, or shifts in power structures.",
+    "whenNotToUse": "When talking about small, everyday habits.",
+    "examples": [
+      "The protagonist's rebellion represents a shift in the cultural paradigm, threatening the patriarchal order."
+    ],
+    "synonyms": [
+      "Model",
+      "Standard",
+      "Archetype"
+    ],
+    "commonMistakes": "Overusing it to sound smart when 'example' or 'system' would suffice.",
+    "replaces": [
+      "example",
+      "system",
+      "pattern"
+    ]
+  },
+  {
+    "id": "ineffable",
+    "word": "Ineffable",
+    "category": "Evaluation verbs",
+    "meaning": "Too great or extreme to be expressed or described in words.",
+    "whenToUse": "When an experience (like profound grief or divine awe) transcends the limits of language.",
+    "whenNotToUse": "When a character just can't think of the right word.",
+    "examples": [
+      "The sublime beauty of the landscape evoked an ineffable sense of peace."
+    ],
+    "synonyms": [
+      "Indescribable",
+      "Beyond words",
+      "Inexpressible"
+    ],
+    "commonMistakes": "Using it for everyday things.",
+    "replaces": [
+      "unexplainable",
+      "hard to describe"
+    ]
+  },
+  {
+    "id": "sublime",
+    "word": "Sublime",
+    "category": "Evaluation verbs",
+    "meaning": "Of such excellence, grandeur, or beauty as to inspire great admiration or awe, often mixed with terror.",
+    "whenToUse": "When analyzing Romantic poetry describing vast, overwhelming nature (like mountains or oceans).",
+    "whenNotToUse": "When something is just 'very nice'.",
+    "examples": [
+      "The poet's encounter with the sublime on the mountain peak shrinks human ego to insignificance."
+    ],
+    "synonyms": [
+      "Awe-inspiring",
+      "Majestic",
+      "Transcendent"
+    ],
+    "commonMistakes": "Forgetting that 'the sublime' historically includes an element of terror or overwhelming power, not just beauty.",
+    "replaces": [
+      "beautiful",
+      "amazing",
+      "great"
+    ]
+  },
+  {
+    "id": "ethereal",
+    "word": "Ethereal",
+    "category": "Tone words",
+    "meaning": "Extremely delicate and light in a way that seems too perfect for this world.",
+    "whenToUse": "When describing ghosts, spirits, or fragile, heavenly beauty.",
+    "whenNotToUse": "When describing something strong, earthly, or grounded.",
+    "examples": [
+      "The ethereal lighting of the scene gives the heroine an almost angelic innocence."
+    ],
+    "synonyms": [
+      "Otherworldly",
+      "Delicate",
+      "Ghostly"
+    ],
+    "commonMistakes": "Using it to describe solid, heavy objects.",
+    "replaces": [
+      "pretty",
+      "light",
+      "ghost-like"
+    ]
+  },
+  {
+    "id": "inscrutable",
+    "word": "Inscrutable",
+    "category": "Evaluation verbs",
+    "meaning": "Impossible to understand or interpret.",
+    "whenToUse": "When a character's face, motives, or the universe itself offers absolutely no clues to its meaning.",
+    "whenNotToUse": "When something is just slightly confusing.",
+    "examples": [
+      "The antagonist remains a terrifying force because his motives are entirely inscrutable."
+    ],
+    "synonyms": [
+      "Enigmatic",
+      "Unreadable",
+      "Mysterious"
+    ],
+    "commonMistakes": "Using it for texts that are just poorly written.",
+    "replaces": [
+      "confusing",
+      "hard to read"
+    ]
+  },
+  {
+    "id": "resonant",
+    "word": "Resonant",
+    "category": "Evaluation verbs",
+    "meaning": "Evoking or suggesting enduring images, memories, or emotions.",
+    "whenToUse": "When a symbol, line, or theme echoes deeply throughout the rest of the text or into the reader's life.",
+    "whenNotToUse": "When an event is quickly forgotten.",
+    "examples": [
+      "The final image of the green light is highly resonant, echoing Gatsby's unfulfilled desires."
+    ],
+    "synonyms": [
+      "Evocative",
+      "Profound",
+      "Echoing"
+    ],
+    "commonMistakes": "Using it to describe actual loud sounds instead of emotional echoes.",
+    "replaces": [
+      "meaningful",
+      "sticks with you"
+    ]
+  },
+  {
+    "id": "insidious",
+    "word": "Insidious",
+    "category": "Evaluation verbs",
+    "meaning": "Proceeding in a gradual, subtle way, but with harmful effects.",
+    "whenToUse": "When corruption, disease, or evil spreads slowly without being noticed until it is too late.",
+    "whenNotToUse": "When a villain attacks someone openly and violently.",
+    "examples": [
+      "The insidious nature of the propaganda slowly eroded the citizens' capacity for critical thought."
+    ],
+    "synonyms": [
+      "Stealthy",
+      "Treacherous",
+      "Subtle (but evil)"
+    ],
+    "commonMistakes": "Confusing it with 'hideous' (ugly).",
+    "replaces": [
+      "sneaky",
+      "secretly bad"
+    ]
+  },
+  {
+    "id": "overt",
+    "word": "Overt",
+    "category": "Evaluation verbs",
+    "meaning": "Done or shown openly; plainly or readily apparent, not secret or hidden.",
+    "whenToUse": "When an author or character makes their intentions blatantly obvious.",
+    "whenNotToUse": "When discussing subtle symbolism or subtext.",
+    "examples": [
+      "The overt racism of the townspeople creates an immediate atmosphere of hostility."
+    ],
+    "synonyms": [
+      "Explicit",
+      "Blatant",
+      "Conspicuous"
+    ],
+    "commonMistakes": "Confusing it with covert (its exact opposite).",
+    "replaces": [
+      "obvious",
+      "in your face"
+    ]
+  },
+  {
+    "id": "covert",
+    "word": "Covert",
+    "category": "Evaluation verbs",
+    "meaning": "Not openly acknowledged or displayed.",
+    "whenToUse": "When analyzing subtext, hidden agendas, or subtle manipulation between characters.",
+    "whenNotToUse": "When someone is shouting their feelings.",
+    "examples": [
+      "The covert hostility in their polite dinner conversation generates immense dramatic tension."
+    ],
+    "synonyms": [
+      "Secret",
+      "Subtle",
+      "Clandestine"
+    ],
+    "commonMistakes": "Confusing it with overt.",
+    "replaces": [
+      "hidden",
+      "secret",
+      "subtle"
+    ]
+  },
+  {
+    "id": "idiosyncratic",
+    "word": "Idiosyncratic",
+    "category": "Evaluation verbs",
+    "meaning": "A mode of behavior or way of thought peculiar to an individual.",
+    "whenToUse": "When a character has a very specific, quirky, or unique way of speaking or acting.",
+    "whenNotToUse": "When a character is a generic stereotype.",
+    "examples": [
+      "The narrator's idiosyncratic syntax reflects her fragmented grip on reality."
+    ],
+    "synonyms": [
+      "Peculiar",
+      "Quirky",
+      "Distinctive"
+    ],
+    "commonMistakes": "Using it to mean 'idiotic'.",
+    "replaces": [
+      "unique",
+      "weird",
+      "specific"
+    ]
+  },
+  {
+    "id": "ubiquitous",
+    "word": "Ubiquitous",
+    "category": "Evaluation verbs",
+    "meaning": "Present, appearing, or found everywhere.",
+    "whenToUse": "When a theme, symbol, or oppressive force is inescapable within the world of the text.",
+    "whenNotToUse": "When something is rare or hidden.",
+    "examples": [
+      "The ubiquitous posters of Big Brother serve as a constant reminder of the regime's omniscience."
+    ],
+    "synonyms": [
+      "Omnipresent",
+      "Pervasive",
+      "Universal"
+    ],
+    "commonMistakes": "Using it for physical people (a person can't literally be ubiquitous).",
+    "replaces": [
+      "everywhere",
+      "all around"
+    ]
+  },
+  {
+    "id": "illustrates",
+    "word": "Illustrates",
+    "category": "Analysis verbs",
+    "meaning": "To serve as an example of.",
+    "whenToUse": "When a specific event or quote acts as a perfect micro-example of a larger theme.",
+    "whenNotToUse": "When you just mean 'shows' without a larger symbolic connection.",
+    "examples": [
+      "The breaking of the glass illustrates the fragility of their relationship."
+    ],
+    "synonyms": [
+      "Exemplifies",
+      "Demonstrates",
+      "Epitomizes"
+    ],
+    "commonMistakes": "Using it interchangeably with 'says'.",
+    "replaces": [
+      "shows",
+      "is an example of"
+    ]
+  },
+  {
+    "id": "conveys",
+    "word": "Conveys",
+    "category": "Analysis verbs",
+    "meaning": "To communicate or make an idea, impression, or feeling known.",
+    "whenToUse": "When an author is subtly sending a message or feeling to the reader.",
+    "whenNotToUse": "When the author states something outright.",
+    "examples": [
+      "The desolate setting conveys a profound sense of isolation."
+    ],
+    "synonyms": [
+      "Communicates",
+      "Transmits",
+      "Imparts"
+    ],
+    "commonMistakes": "Saying 'The author conveys that he is sad' instead of 'The author conveys a sense of sadness'.",
+    "replaces": [
+      "gives",
+      "shows"
+    ]
+  },
+  {
+    "id": "delineates",
+    "word": "Delineates",
+    "category": "Analysis verbs",
+    "meaning": "To describe or outline with precision.",
+    "whenToUse": "When an author maps out a complex character trait, boundary, or situation step-by-step.",
+    "whenNotToUse": "When a simple description is given.",
+    "examples": [
+      "The author carefully delineates the shifting boundaries of social class."
+    ],
+    "synonyms": [
+      "Outlines",
+      "Traces",
+      "Depicts"
+    ],
+    "commonMistakes": "Using it for simple physical descriptions.",
+    "replaces": [
+      "describes",
+      "explains"
+    ]
+  },
+  {
+    "id": "implies",
+    "word": "Implies",
+    "category": "Interpretation verbs",
+    "meaning": "To strongly suggest the truth or existence of something not expressly stated.",
+    "whenToUse": "When drawing an inference from the text's subtext.",
+    "whenNotToUse": "When the text is explicit. If it says 'He was evil', it doesn't *imply* he was evil; it states it.",
+    "examples": [
+      "The hesitation in her voice implies a deep-seated regret."
+    ],
+    "synonyms": [
+      "Suggests",
+      "Insinuates",
+      "Hints"
+    ],
+    "commonMistakes": "Confusing 'implies' (what the author does) with 'infers' (what the reader does).",
+    "replaces": [
+      "shows secretly",
+      "hints at"
+    ]
+  },
+  {
+    "id": "satirizes",
+    "word": "Satirizes",
+    "category": "Analysis verbs",
+    "meaning": "To deride and criticize by means of satire (humor, irony, exaggeration).",
+    "whenToUse": "When the author is mocking a societal flaw or institution.",
+    "whenNotToUse": "When the text is merely funny or tragic without a critical edge.",
+    "examples": [
+      "Orwell satirizes the totalitarian regimes of the 20th century through the allegorical farm."
+    ],
+    "synonyms": [
+      "Mocks",
+      "Lampoons",
+      "Parodies"
+    ],
+    "commonMistakes": "Using it for any form of comedy.",
+    "replaces": [
+      "makes fun of",
+      "jokes about"
+    ]
+  },
+  {
+    "id": "amplifies",
+    "word": "Amplifies",
+    "category": "Analysis verbs",
+    "meaning": "To make something more marked or intense.",
+    "whenToUse": "When a technique takes an existing feeling or theme and makes it louder or more obvious.",
+    "whenNotToUse": "When introducing a brand new theme.",
+    "examples": [
+      "The claustrophobic setting amplifies the protagonist's growing paranoia."
+    ],
+    "synonyms": [
+      "Intensifies",
+      "Magnifies",
+      "Heightens"
+    ],
+    "commonMistakes": "Using it interchangeably with 'adds'.",
+    "replaces": [
+      "makes bigger",
+      "adds to"
+    ]
+  },
+  {
+    "id": "pervades",
+    "word": "Pervades",
+    "category": "Analysis verbs",
+    "meaning": "To spread through and be perceived in every part of.",
+    "whenToUse": "When a mood, theme, or motif is universally present throughout a text.",
+    "whenNotToUse": "When a motif appears only once or twice.",
+    "examples": [
+      "A sense of impending doom pervades the final chapter of the novel."
+    ],
+    "synonyms": [
+      "Permeates",
+      "Suffuses",
+      "Imbues"
+    ],
+    "commonMistakes": "Saying 'the theme is pervaded' rather than 'the theme pervades'.",
+    "replaces": [
+      "is everywhere",
+      "fills up"
+    ]
+  },
+  {
+    "id": "transcends",
+    "word": "Transcends",
+    "category": "Evaluation verbs",
+    "meaning": "To go beyond the range or limits of (something abstract, typically a conceptual field or division).",
+    "whenToUse": "When a character, symbol, or theme breaks free of its literal constraints to mean something universal.",
+    "whenNotToUse": "When a character just physically moves somewhere else.",
+    "examples": [
+      "The symbol of the green light transcends its physical reality, becoming a universal emblem for unattainable desire."
+    ],
+    "synonyms": [
+      "Surpasses",
+      "Exceeds",
+      "Eclipses"
+    ],
+    "commonMistakes": "Using it casually to mean 'is better than'.",
+    "replaces": [
+      "goes beyond",
+      "is more than"
+    ]
+  },
+  {
+    "id": "substantiates",
+    "word": "Substantiates",
+    "category": "Analysis verbs",
+    "meaning": "To provide evidence to support or prove the truth of.",
+    "whenToUse": "When a specific action or quote proves a character's motive or a thematic premise.",
+    "whenNotToUse": "When you are just listing events.",
+    "examples": [
+      "His sudden betrayal substantiates the narrator's earlier warnings about his duplicity."
+    ],
+    "synonyms": [
+      "Validates",
+      "Corroborates",
+      "Verifies"
+    ],
+    "commonMistakes": "Saying 'the author substantiates' when it's actually the *evidence* that substantiates.",
+    "replaces": [
+      "proves",
+      "shows it is true"
+    ]
+  },
+  {
+    "id": "manipulates",
+    "word": "Manipulates",
+    "category": "Analysis verbs",
+    "meaning": "To control or influence cleverly, unfairly, or artfully.",
+    "whenToUse": "When an author deliberately twists pacing, perspective, or structure to control the reader's emotional response.",
+    "whenNotToUse": "When an author is just telling a straightforward story.",
+    "examples": [
+      "The author manipulates the chronological timeline to disorient the reader."
+    ],
+    "synonyms": [
+      "Orchestrates",
+      "Engineers",
+      "Maneuvers"
+    ],
+    "commonMistakes": "Using it only to describe characters, forgetting that *authors* manipulate readers.",
+    "replaces": [
+      "changes",
+      "controls"
+    ]
+  },
+  {
+    "id": "encapsulates",
+    "word": "Encapsulates",
+    "category": "Analysis verbs",
+    "meaning": "To express the essential features of something succinctly.",
+    "whenToUse": "When a single quote or short scene perfectly summarizes the entire theme of the text.",
+    "whenNotToUse": "When a scene is irrelevant or tangential.",
+    "examples": [
+      "This single line of dialogue encapsulates the generational conflict at the heart of the play."
+    ],
+    "synonyms": [
+      "Summarizes",
+      "Epitomizes",
+      "Embodies"
+    ],
+    "commonMistakes": "Using it to mean 'hides' or 'traps'.",
+    "replaces": [
+      "sums up",
+      "shows the whole thing"
+    ]
+  },
+  {
+    "id": "alludes",
+    "word": "Alludes",
+    "category": "Analysis verbs",
+    "meaning": "To suggest or call attention to indirectly; hint at.",
+    "whenToUse": "When the text makes an indirect reference to another work of art, historical event, or myth.",
+    "whenNotToUse": "When the text explicitly names and explains the reference.",
+    "examples": [
+      "The serpent imagery alludes to the biblical fall of man."
+    ],
+    "synonyms": [
+      "References",
+      "Hints at",
+      "Suggests"
+    ],
+    "commonMistakes": "Saying 'alludes about' instead of 'alludes to'.",
+    "replaces": [
+      "mentions",
+      "talks about"
+    ]
+  },
+  {
+    "id": "subverts-expectations",
+    "word": "Subverts expectations",
+    "category": "Evaluation verbs",
+    "meaning": "To deliberately contradict what the reader anticipates.",
+    "whenToUse": "When a plot twist or character arc deliberately breaks tropes for thematic effect.",
+    "whenNotToUse": "When a plot is just confusing or random.",
+    "examples": [
+      "The anti-climactic ending subverts expectations, denying the reader catharsis to reflect the reality of war."
+    ],
+    "synonyms": [
+      "Defies convention",
+      "Overturns"
+    ],
+    "commonMistakes": "Using it whenever you are surprised, even if it wasn't a deliberate trope subversion.",
+    "replaces": [
+      "surprises the reader",
+      "is unexpected"
+    ]
+  },
+  {
+    "id": "reiterates",
+    "word": "Reiterates",
+    "category": "Analysis verbs",
+    "meaning": "To say something again or a number of times, typically for emphasis or clarity.",
+    "whenToUse": "When an author repeats a motif, phrase, or idea to cement its importance.",
+    "whenNotToUse": "When an idea is introduced for the first time.",
+    "examples": [
+      "The constant ticking of the clock reiterates the inescapability of mortality."
+    ],
+    "synonyms": [
+      "Restates",
+      "Repeats",
+      "Echoes"
+    ],
+    "commonMistakes": "Spelling it 'reitterates'.",
+    "replaces": [
+      "says again",
+      "repeats"
+    ]
+  },
+  {
+    "id": "enjambment",
+    "word": "Enjambment",
+    "category": "Structural terminology",
+    "meaning": "The continuation of a sentence without a pause beyond the end of a line, couplet, or stanza.",
+    "whenToUse": "To analyze speed, momentum, chaos, or overflowing emotion in poetry.",
+    "whenNotToUse": "When a line ends with punctuation (that is an end-stopped line).",
+    "examples": [
+      "The enjambment between the first and second stanza mimics the speaker's breathless panic."
+    ],
+    "synonyms": [
+      "Run-on line"
+    ],
+    "commonMistakes": "Noting enjambment without explaining *why* it speeds up the rhythm.",
+    "replaces": [
+      "lines carrying on",
+      "no full stops"
+    ]
+  },
+  {
+    "id": "caesura",
+    "word": "Caesura",
+    "category": "Structural terminology",
+    "meaning": "A pause near the middle of a line, dictated by sense or natural speech rhythm rather than by metrics.",
+    "whenToUse": "When analyzing a sudden halt, hesitation, fragmentation, or dramatic pause in a poem.",
+    "whenNotToUse": "When referring to punctuation at the *end* of a line.",
+    "examples": [
+      "The abrupt caesura ('—but no!') shatters the previously fluid rhythm, reflecting his sudden doubt."
+    ],
+    "synonyms": [
+      "Mid-line pause",
+      "Break"
+    ],
+    "commonMistakes": "Assuming a caesura must be a dash; it can be a comma, period, or natural speech pause.",
+    "replaces": [
+      "pause in the middle",
+      "comma in the line"
+    ]
+  },
+  {
+    "id": "anaphora",
+    "word": "Anaphora",
+    "category": "Structural terminology",
+    "meaning": "The repetition of a word or phrase at the beginning of successive clauses.",
+    "whenToUse": "When analyzing speeches, intense emotional outbursts, or lists that build overwhelming pressure.",
+    "whenNotToUse": "When words are repeated randomly throughout a stanza (that is simply repetition).",
+    "examples": [
+      "The anaphora of 'Every day... Every night...' creates an inescapable sense of drudgery."
+    ],
+    "synonyms": [
+      "Repetition (specific)"
+    ],
+    "commonMistakes": "Confusing it with Epistrophe (repetition at the *end* of clauses).",
+    "replaces": [
+      "repeating at the start",
+      "starting the same way"
+    ]
+  },
+  {
+    "id": "volta",
+    "word": "Volta",
+    "category": "Structural terminology",
+    "meaning": "The turn of thought or argument in poetry.",
+    "whenToUse": "When analyzing sonnets or any poem that shifts its tone, perspective, or argument suddenly.",
+    "whenNotToUse": "When a poem remains completely consistent in tone.",
+    "examples": [
+      "The volta in line 9 abruptly shifts the tone from despair to acceptance."
+    ],
+    "synonyms": [
+      "Turn",
+      "Shift",
+      "Pivot"
+    ],
+    "commonMistakes": "Thinking voltas only exist in Petrarchan sonnets; they can be in any poem.",
+    "replaces": [
+      "sudden change",
+      "shift"
+    ]
+  },
+  {
+    "id": "polysyndeton",
+    "word": "Polysyndeton",
+    "category": "Structural terminology",
+    "meaning": "The use of several conjunctions in close succession, especially where some could otherwise be omitted.",
+    "whenToUse": "When a sentence feels overwhelming, endless, child-like, or breathlessly fast.",
+    "whenNotToUse": "When a sentence uses normal grammar.",
+    "examples": [
+      "The polysyndeton ('and the mud and the blood and the rain') creates an exhausting, relentless rhythm."
+    ],
+    "synonyms": [
+      "Conjunction repetition"
+    ],
+    "commonMistakes": "Confusing it with Asyndeton (the *lack* of conjunctions).",
+    "replaces": [
+      "using lots of 'ands'",
+      "run on sentence"
+    ]
+  },
+  {
+    "id": "asyndeton",
+    "word": "Asyndeton",
+    "category": "Structural terminology",
+    "meaning": "The omission or absence of a conjunction between parts of a sentence.",
+    "whenToUse": "When a list feels rapid, fragmented, clinical, or blunt.",
+    "whenNotToUse": "When conjunctions are present.",
+    "examples": [
+      "The asyndeton ('I came, I saw, I conquered') conveys rapid, effortless dominance."
+    ],
+    "synonyms": [
+      "Omission of conjunctions"
+    ],
+    "commonMistakes": "Confusing it with Polysyndeton.",
+    "replaces": [
+      "listing without and",
+      "short sentences"
+    ]
+  },
+  {
+    "id": "chiasmus",
+    "word": "Chiasmus",
+    "category": "Structural terminology",
+    "meaning": "A rhetorical or literary figure in which words, grammatical constructions, or concepts are repeated in reverse order.",
+    "whenToUse": "When analyzing paradoxes, inescapable cycles, or highly constructed rhetoric.",
+    "whenNotToUse": "When words are just repeated normally.",
+    "examples": [
+      "The chiasmus ('Fair is foul, and foul is fair') establishes a world where moral order is inverted."
+    ],
+    "synonyms": [
+      "Inversion",
+      "Crossed structure"
+    ],
+    "commonMistakes": "Spelling it incorrectly.",
+    "replaces": [
+      "reversed words",
+      "swapped structure"
+    ]
+  },
+  {
+    "id": "cyclical-structure",
+    "word": "Cyclical Structure",
+    "category": "Structural terminology",
+    "meaning": "When a text begins and ends in the same place or with the same imagery.",
+    "whenToUse": "When analyzing futility, lack of progress, inescapable fate, or natural cycles.",
+    "whenNotToUse": "When a story is strictly linear.",
+    "examples": [
+      "The cyclical structure of the play underscores the futility of their waiting; nothing has changed."
+    ],
+    "synonyms": [
+      "Circular narrative",
+      "Framing device"
+    ],
+    "commonMistakes": "Not explaining the thematic *meaning* of the cycle.",
+    "replaces": [
+      "ends where it began",
+      "goes in a circle"
+    ]
+  },
+  {
+    "id": "in-media-res",
+    "word": "In Media Res",
+    "category": "Structural terminology",
+    "meaning": "Beginning a narrative in the middle of a crucial situation that is part of a related chain of events.",
+    "whenToUse": "When the author drops you into chaos, action, or confusion to instantly hook you or disorient you.",
+    "whenNotToUse": "When a story begins with a slow exposition.",
+    "examples": [
+      "Opening the poem *in media res* instantly disorients the reader, plunging them into the chaos of the battlefield."
+    ],
+    "synonyms": [
+      "In the middle of things"
+    ],
+    "commonMistakes": "Forgetting it is a Latin term and shouldn't be capitalized normally.",
+    "replaces": [
+      "starts in the middle",
+      "starts with action"
+    ]
+  },
+  {
+    "id": "stichomythia",
+    "word": "Stichomythia",
+    "category": "Structural terminology",
+    "meaning": "Dialogue in which two characters speak alternate lines of verse.",
+    "whenToUse": "When analyzing fast-paced tension, argument, or intense intimacy in a play.",
+    "whenNotToUse": "When characters are giving long monologues.",
+    "examples": [
+      "The rapid stichomythia between the lovers builds immense dramatic tension and urgency."
+    ],
+    "synonyms": [
+      "Alternating dialogue",
+      "Rapid-fire exchange"
+    ],
+    "commonMistakes": "Applying it to prose novels (it's primarily a dramatic/verse term).",
+    "replaces": [
+      "fast talking",
+      "quick replies"
+    ]
+  },
+  {
+    "id": "free-verse",
+    "word": "Free Verse",
+    "category": "Structural terminology",
+    "meaning": "Poetry that does not rhyme or have a regular meter.",
+    "whenToUse": "When analyzing rebellion, conversational tone, chaos, or modern alienation.",
+    "whenNotToUse": "When a poem has a strict rhyme scheme or iambic meter.",
+    "examples": [
+      "The use of free verse reflects the speaker's liberated, unconventional state of mind."
+    ],
+    "synonyms": [
+      "Vers libre"
+    ],
+    "commonMistakes": "Thinking free verse means 'no structure'. Authors still make deliberate line-break choices in free verse.",
+    "replaces": [
+      "no rhythm",
+      "normal talking poem"
+    ]
+  },
+  {
+    "id": "blank-verse",
+    "word": "Blank Verse",
+    "category": "Structural terminology",
+    "meaning": "Verse without rhyme, especially that which uses iambic pentameter.",
+    "whenToUse": "When analyzing Shakespeare or formal epic poetry that tries to mimic elevated natural speech.",
+    "whenNotToUse": "When the poem rhymes, or when it has no meter at all (free verse).",
+    "examples": [
+      "Shakespeare's nobles speak in blank verse to demonstrate their high status and education."
+    ],
+    "synonyms": [
+      "Unrhymed iambic pentameter"
+    ],
+    "commonMistakes": "Confusing Blank Verse (has meter, no rhyme) with Free Verse (no meter, no rhyme).",
+    "replaces": [
+      "unrhyming poem",
+      "Shakespeare text"
+    ]
+  },
+  {
+    "id": "micro-sentence",
+    "word": "Micro-sentence",
+    "category": "Structural terminology",
+    "meaning": "An extremely short sentence, often just one or two words.",
+    "whenToUse": "When a writer wants to create shock, bluntness, sudden realization, or a dramatic pause.",
+    "whenNotToUse": "When sentences are average length.",
+    "examples": [
+      "The micro-sentence 'He died.' lands with blunt, unadorned brutality after the flowing descriptions of the battle."
+    ],
+    "synonyms": [
+      "Truncated sentence",
+      "Fragment"
+    ],
+    "commonMistakes": "Just pointing it out without explaining the blunt effect.",
+    "replaces": [
+      "short sentence",
+      "few words"
+    ]
+  },
+  {
+    "id": "syntax",
+    "word": "Syntax",
+    "category": "Structural terminology",
+    "meaning": "The arrangement of words and phrases to create well-formed sentences.",
+    "whenToUse": "When discussing sentence length, word order, or grammar structure.",
+    "whenNotToUse": "When discussing vocabulary (that's diction).",
+    "examples": [
+      "The fragmented syntax mirrors the character's deteriorating mental state."
+    ],
+    "synonyms": [
+      "Sentence structure",
+      "Phrasing"
+    ],
+    "commonMistakes": "Confusing syntax (structure) with diction (word choice).",
+    "replaces": [
+      "sentence order",
+      "grammar"
+    ]
+  },
+  {
+    "id": "focalization",
+    "word": "Focalization",
+    "category": "Structural terminology",
+    "meaning": "The perspective through which a narrative is presented.",
+    "whenToUse": "When discussing how the narrative lens is restricted to one character's biases or limited knowledge.",
+    "whenNotToUse": "When discussing the literal 'narrator' if the narrator is an omniscient voice.",
+    "examples": [
+      "Through the focalization of a child, the horrific events of the war are rendered with a disturbing, naive innocence."
+    ],
+    "synonyms": [
+      "Perspective",
+      "Lens"
+    ],
+    "commonMistakes": "Using it interchangeably with 'first person narrator'. Third-person narratives can also be focalized.",
+    "replaces": [
+      "point of view",
+      "eyes of the character"
+    ]
+  },
+  {
+    "id": "insinuates",
+    "word": "Insinuates",
+    "category": "Interpretation verbs",
+    "meaning": "To suggest or hint at something bad or reprehensible in an indirect and unpleasant way.",
+    "whenToUse": "When a character or author is making a sly, malicious hint.",
+    "whenNotToUse": "When the suggestion is positive or neutral.",
+    "examples": [
+      "The narrator insinuates that the protagonist's wealth was acquired through illicit means."
+    ],
+    "synonyms": [
+      "Implies",
+      "Hints",
+      "Suggests subtly"
+    ],
+    "commonMistakes": "Using it to mean a normal, innocent suggestion.",
+    "replaces": [
+      "hints at",
+      "says secretly"
+    ]
+  },
+  {
+    "id": "intimates",
+    "word": "Intimates",
+    "category": "Interpretation verbs",
+    "meaning": "To imply or hint (usually something personal or subtle).",
+    "whenToUse": "When an author delicately suggests a private or deeply emotional truth.",
+    "whenNotToUse": "When an author is stating facts loudly or directly.",
+    "examples": [
+      "The subtle shift in her posture intimates a lingering grief she refuses to voice."
+    ],
+    "synonyms": [
+      "Hints",
+      "Suggests",
+      "Implies"
+    ],
+    "commonMistakes": "Confusing it with the adjective 'intimate' (close/personal).",
+    "replaces": [
+      "shows a bit",
+      "hints"
+    ]
+  },
+  {
+    "id": "challenges",
+    "word": "Challenges",
+    "category": "Interpretation verbs",
+    "meaning": "To dispute the truth or validity of something.",
+    "whenToUse": "When a text confronts a societal norm, belief, or stereotype.",
+    "whenNotToUse": "When a character simply fights another character.",
+    "examples": [
+      "The novel challenges the patriarchal assumption that women are inherently passive."
+    ],
+    "synonyms": [
+      "Questions",
+      "Disputes",
+      "Contests"
+    ],
+    "commonMistakes": "Using it for physical conflicts instead of ideological ones.",
+    "replaces": [
+      "fights against",
+      "disagrees with"
+    ]
+  },
+  {
+    "id": "interrogates",
+    "word": "Interrogates",
+    "category": "Interpretation verbs",
+    "meaning": "To ask questions of someone or something closely, aggressively, or formally.",
+    "whenToUse": "When a text deeply examines or questions a complex issue or moral dilemma.",
+    "whenNotToUse": "When the text just mentions a topic in passing.",
+    "examples": [
+      "The play interrogates the morality of vengeance in a lawless society."
+    ],
+    "synonyms": [
+      "Examines",
+      "Questions",
+      "Probes"
+    ],
+    "commonMistakes": "Only using it when police are questioning a suspect.",
+    "replaces": [
+      "looks at",
+      "talks about"
+    ]
+  },
+  {
+    "id": "critiques",
+    "word": "Critiques",
+    "category": "Interpretation verbs",
+    "meaning": "To evaluate in a detailed and analytical way.",
+    "whenToUse": "When a text points out the flaws in a specific societal system or human behavior.",
+    "whenNotToUse": "When the text is just telling a story without a deeper message.",
+    "examples": [
+      "Through the dystopian setting, the author critiques the dehumanizing effects of hyper-capitalism."
+    ],
+    "synonyms": [
+      "Analyzes",
+      "Evaluates",
+      "Assesses"
+    ],
+    "commonMistakes": "Confusing it with 'criticizes' (which is just finding fault, whereas critique is analytical).",
+    "replaces": [
+      "judges",
+      "says is bad"
+    ]
+  },
+  {
+    "id": "validates",
+    "word": "Validates",
+    "category": "Interpretation verbs",
+    "meaning": "To check or prove the validity or accuracy of something.",
+    "whenToUse": "When a later event in a text proves an earlier theme or character's fear to be true.",
+    "whenNotToUse": "When you just mean 'agrees with'.",
+    "examples": [
+      "The protagonist's eventual betrayal validates the narrator's cynical worldview."
+    ],
+    "synonyms": [
+      "Confirms",
+      "Proves",
+      "Corroborates"
+    ],
+    "commonMistakes": "Using it instead of 'comforts'.",
+    "replaces": [
+      "proves right",
+      "shows is true"
+    ]
+  },
+  {
+    "id": "problematizes",
+    "word": "Problematizes",
+    "category": "Interpretation verbs",
+    "meaning": "To make into or regard as a problem requiring a solution.",
+    "whenToUse": "When a text takes a seemingly simple issue and shows how complicated and morally gray it actually is.",
+    "whenNotToUse": "When a text offers a simple, clear moral lesson.",
+    "examples": [
+      "The anti-hero problematizes the traditional binary of good versus evil."
+    ],
+    "synonyms": [
+      "Complicates",
+      "Questions"
+    ],
+    "commonMistakes": "Spelling it wrong.",
+    "replaces": [
+      "makes complicated",
+      "shows the problem with"
+    ]
+  },
+  {
+    "id": "demystifies",
+    "word": "Demystifies",
+    "category": "Interpretation verbs",
+    "meaning": "To make a difficult or esoteric subject clearer and easier to understand.",
+    "whenToUse": "When a text strips away the romantic myths or illusions surrounding a topic.",
+    "whenNotToUse": "When a text makes something MORE mysterious.",
+    "examples": [
+      "The gritty, visceral descriptions of the battlefield demystify the glorious 'old Lie' of war."
+    ],
+    "synonyms": [
+      "Clarifies",
+      "Exposes",
+      "Unveils"
+    ],
+    "commonMistakes": "Using it when the author is just explaining a normal plot point.",
+    "replaces": [
+      "shows the truth about",
+      "makes clear"
+    ]
+  },
+  {
+    "id": "romanticizes",
+    "word": "Romanticizes",
+    "category": "Interpretation verbs",
+    "meaning": "To deal with or describe in an idealized or unrealistic fashion; make something seem better than it is.",
+    "whenToUse": "When a narrator looks back at the past with rose-tinted glasses, ignoring the flaws.",
+    "whenNotToUse": "When a text gives a brutally honest depiction of events.",
+    "examples": [
+      "The protagonist romanticizes his impoverished youth, remembering only the freedom and forgetting the hunger."
+    ],
+    "synonyms": [
+      "Idealizes",
+      "Glamorizes"
+    ],
+    "commonMistakes": "Using it to mean 'falling in love'.",
+    "replaces": [
+      "makes it sound perfect",
+      "looks on the bright side"
+    ]
+  },
+  {
+    "id": "recontextualizes",
+    "word": "Recontextualizes",
+    "category": "Interpretation verbs",
+    "meaning": "To place or consider in a new or different context.",
+    "whenToUse": "When a plot twist or late revelation forces the reader to look at all previous events in a new light.",
+    "whenNotToUse": "When the story just continues normally.",
+    "examples": [
+      "The discovery of the letters recontextualizes her earlier anger as an act of profound grief rather than malice."
+    ],
+    "synonyms": [
+      "Reinterprets",
+      "Reframes"
+    ],
+    "commonMistakes": "Using it for minor changes in perspective.",
+    "replaces": [
+      "changes how you see",
+      "makes you think differently about"
+    ]
+  },
+  {
+    "id": "parodies",
+    "word": "Parodies",
+    "category": "Interpretation verbs",
+    "meaning": "To produce a humorously exaggerated imitation of a writer, artist, or genre.",
+    "whenToUse": "When a text deliberately copies a trope just to make fun of it.",
+    "whenNotToUse": "When a text is accidentally funny or bad.",
+    "examples": [
+      "The knight's absurd quest parodies the chivalric romances of the medieval era."
+    ],
+    "synonyms": [
+      "Mocks",
+      "Lampoons",
+      "Spoofs"
+    ],
+    "commonMistakes": "Using it interchangeably with 'satirizes'. (Parody mimics a *style*, satire attacks a *societal flaw*).",
+    "replaces": [
+      "makes fun of",
+      "copies to be funny"
+    ]
+  },
+  {
+    "id": "exposes",
+    "word": "Exposes",
+    "category": "Interpretation verbs",
+    "meaning": "To make something visible by uncovering it; to reveal the true, objectionable nature of something.",
+    "whenToUse": "When an author reveals corruption, hypocrisy, or a hidden truth.",
+    "whenNotToUse": "When an author just tells a secret that isn't a societal flaw.",
+    "examples": [
+      "The sharp dialogue exposes the hypocrisy of the Victorian upper class."
+    ],
+    "synonyms": [
+      "Reveals",
+      "Uncovers",
+      "Unmasks"
+    ],
+    "commonMistakes": "Using it for physical uncovering rather than thematic revealing.",
+    "replaces": [
+      "shows the bad side of",
+      "tells the truth about"
+    ]
+  },
+  {
+    "id": "foregrounds",
+    "word": "Foregrounds",
+    "category": "Interpretation verbs",
+    "meaning": "To make something the most prominent or important feature.",
+    "whenToUse": "When an author brings a usually ignored issue (like class or gender) to the absolute center of the story.",
+    "whenNotToUse": "When something is just a minor background detail.",
+    "examples": [
+      "By opening the novel in the slums, the author immediately foregrounds the inescapable reality of poverty."
+    ],
+    "synonyms": [
+      "Highlights",
+      "Prioritizes",
+      "Emphasizes"
+    ],
+    "commonMistakes": "Spelling it 'forgrounds'.",
+    "replaces": [
+      "puts in the front",
+      "makes obvious"
+    ]
+  },
+  {
+    "id": "marginalizes",
+    "word": "Marginalizes",
+    "category": "Interpretation verbs",
+    "meaning": "To treat a person, group, or concept as insignificant or peripheral.",
+    "whenToUse": "When analyzing how a text (or society within the text) ignores or silences certain voices.",
+    "whenNotToUse": "When a character is just unpopular.",
+    "examples": [
+      "The narrative structure deliberately marginalizes the female characters, reflecting the patriarchal setting."
+    ],
+    "synonyms": [
+      "Sidelines",
+      "Isolates",
+      "Disempowers"
+    ],
+    "commonMistakes": "Using it to mean 'dislikes'.",
+    "replaces": [
+      "pushes aside",
+      "ignores"
+    ]
+  },
+  {
+    "id": "subscribes",
+    "word": "Subscribes (to)",
+    "category": "Interpretation verbs",
+    "meaning": "To express or feel agreement with an idea or proposal.",
+    "whenToUse": "When a character blindly follows a flawed ideology or societal norm.",
+    "whenNotToUse": "When a character simply agrees to do a chore.",
+    "examples": [
+      "Despite his intelligence, the protagonist blindly subscribes to the imperialist propaganda of his era."
+    ],
+    "synonyms": [
+      "Endorses",
+      "Supports",
+      "Adheres to"
+    ],
+    "commonMistakes": "Forgetting the 'to' after subscribes.",
+    "replaces": [
+      "believes in",
+      "follows"
+    ]
+  },
+  {
+    "id": "dismantles",
+    "word": "Dismantles",
+    "category": "Interpretation verbs",
+    "meaning": "To take a machine or structure to pieces; to systematically deconstruct an argument or ideology.",
+    "whenToUse": "When an author tears down a widely accepted belief step-by-step.",
+    "whenNotToUse": "When an author just lightly disagrees with something.",
+    "examples": [
+      "Through a series of logical paradoxes, the essay dismantles the notion of absolute free will."
+    ],
+    "synonyms": [
+      "Deconstructs",
+      "Tears down",
+      "Destroys"
+    ],
+    "commonMistakes": "Using it for physical destruction (like blowing up a building) in an essay.",
+    "replaces": [
+      "takes apart",
+      "proves wrong completely"
+    ]
+  }
+]

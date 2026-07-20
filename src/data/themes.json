@@ -1,0 +1,87 @@
+[
+  {
+    "id": "power-and-corruption",
+    "name": "Power and Corruption",
+    "description": "The exploration of how authority, ambition, and control influence human behavior, often leading to moral decay, oppression, or the loss of humanity.",
+    "commonSymbols": ["Crowns", "Thrones", "Chains", "Blood", "Gold", "High places (towers, mountains)"],
+    "colours": ["Gold (wealth)", "Red (blood/violence)", "Purple (royalty)", "Black (oppression)"],
+    "images": ["Panopticons/surveillance", "Puppet masters", "Predator/prey dynamics", "Decaying architecture"],
+    "typicalTechniques": ["Irony", "Juxtaposition of rich/poor", "Zoomorphism (comparing rulers to beasts)", "Imperative language"],
+    "questionsExaminersAsk": [
+      "How does the author portray the psychological effects of absolute power?",
+      "Discuss the relationship between language and control in the text."
+    ],
+    "typicalArguments": [
+      "Power inherently isolates the individual, destroying their capacity for empathy.",
+      "The language of the oppressor is used to rewrite truth and maintain control."
+    ]
+  },
+  {
+    "id": "identity-and-alienation",
+    "name": "Identity and Alienation",
+    "description": "The struggle to define the self within or against a society, often resulting in feelings of isolation, fragmentation, or a divided consciousness.",
+    "commonSymbols": ["Mirrors", "Masks", "Shadows", "Namelessness", "Boundaries/Borders", "Labyrinths"],
+    "colours": ["Grey (conformity)", "White (erasure)", "Clashing/vibrant colors (rebellion)"],
+    "images": ["Reflections in fractured glass", "Crowds of faceless people", "Empty rooms", "Chameleons"],
+    "typicalTechniques": ["Stream of consciousness", "First-person unreliable narrator", "Fragmentation", "Motifs of disguise"],
+    "questionsExaminersAsk": [
+      "How is the protagonist's internal conflict regarding their identity represented structurally?",
+      "To what extent does the setting mirror the character's sense of alienation?"
+    ],
+    "typicalArguments": [
+      "Societal expectations force the individual into a performative identity, destroying their authentic self.",
+      "Alienation is presented not just as a physical state, but as a psychological fracturing caused by modern life."
+    ]
+  },
+  {
+    "id": "nature-vs-civilization",
+    "name": "Nature vs. Civilization",
+    "description": "The tension between the primal, chaotic forces of the natural world and the ordered, constructed, often oppressive systems of human society.",
+    "commonSymbols": ["Forests/Woods", "Clocks", "Cages", "Wild animals", "Machines/Engines", "Weeds breaking through concrete"],
+    "colours": ["Green/Brown (nature)", "Steel grey (industry)", "Neon (artificiality)"],
+    "images": ["Storms disrupting human events", "Overgrown ruins", "Sterile environments", "Taming of beasts"],
+    "typicalTechniques": ["Personification of nature", "Sensory imagery", "Juxtaposition", "Pathetic fallacy"],
+    "questionsExaminersAsk": [
+      "In what ways does the author use the natural landscape to critique human ambition?",
+      "How does the text resolve the conflict between natural instincts and societal rules?"
+    ],
+    "typicalArguments": [
+      "Attempts to conquer or sanitize nature ultimately lead to the spiritual death of humanity.",
+      "The 'civilized' world is depicted as inherently more brutal and unnatural than the wilderness."
+    ]
+  },
+  {
+    "id": "memory-and-time",
+    "name": "Memory and Time",
+    "description": "The subjective experience of time passing, the unreliability of remembrance, and how the past continually haunts or shapes the present.",
+    "commonSymbols": ["Ghosts", "Photographs/Portraits", "Dust", "Clocks/Watches", "Ruins", "Seasons (Autumn/Winter)"],
+    "colours": ["Sepia", "Faded pastels", "Harsh white (intrusive memories)"],
+    "images": ["Footprints washing away", "Echoes", "Flickering film", "Moth-eaten fabrics"],
+    "typicalTechniques": ["Non-linear narrative", "Flashbacks", "Repetition", "Motifs", "Shifts in tense"],
+    "questionsExaminersAsk": [
+      "How does the structural disruption of chronology reflect the protagonist's trauma?",
+      "Analyze the role of setting in triggering memory and nostalgia."
+    ],
+    "typicalArguments": [
+      "Memory is portrayed not as a reliable record, but as a constructed narrative used to cope with trauma.",
+      "Time is an inescapable, destructive force that inevitably erodes human connection."
+    ]
+  },
+  {
+    "id": "gender-and-roles",
+    "name": "Gender and Roles",
+    "description": "The examination of how society constructs, enforces, and punishes deviations from traditional gender expectations.",
+    "commonSymbols": ["Cages (often gilded)", "Dolls", "Mirrors", "Corsets/Binding clothes", "Weapons", "Flowers"],
+    "colours": ["Pink/Blue (traditional)", "Red (rebellion/sexuality)", "White (purity/erasure)"],
+    "images": ["Silenced voices", "Performances on a stage", "Domestic spaces as prisons", "Physical restriction"],
+    "typicalTechniques": ["Dramatic irony", "Symbolism", "Subversion of tropes", "Dialogue/Silence analysis"],
+    "questionsExaminersAsk": [
+      "How does the author use domestic settings to comment on the constraints placed on women?",
+      "In what ways are traditional concepts of masculinity challenged in the text?"
+    ],
+    "typicalArguments": [
+      "Patriarchal structures are maintained through linguistic control and the silencing of female narratives.",
+      "Rigid gender roles are presented as psychologically damaging to all individuals, regardless of gender."
+    ]
+  }
+]

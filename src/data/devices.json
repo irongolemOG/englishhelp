@@ -1,0 +1,1932 @@
+[
+  {
+    "id": "anaphora",
+    "name": "Anaphora",
+    "definition": "The deliberate repetition of a word or phrase at the beginning of successive clauses or sentences.",
+    "simpleExplanation": "Starting multiple sentences with the exact same words to make a point.",
+    "advancedExplanation": "A rhetorical device used to create rhythm, accumulate emotional weight, or build an inexorable logical argument. It functions as a structural anchor in persuasion.",
+    "purpose": "To emphasize a concept, create a driving rhythm, and overwhelm the reader/listener with a specific idea.",
+    "whyAuthorsUseIt": "Authors use anaphora to simulate rising passion, to create a hypnotic or relentless tone, and to engrave a central thesis into the audience's mind.",
+    "psychologicalEffect": "It triggers a sense of inevitability in the reader. The repetition mimics the physical sensation of a heartbeat or a drum, escalating emotional arousal.",
+    "readerEffect": "The reader feels overwhelmed, convinced, or emotionally saturated by the repeated concept.",
+    "emotionalEffect": "Urgency, passion, desperation, or unyielding determination.",
+    "commonExamUses": [
+      "Speeches (Paper 1)",
+      "Political propaganda",
+      "High-emotion poetry"
+    ],
+    "commonMistakes": [
+      "Confusing it with epistrophe (repetition at the end).",
+      "Just saying 'it makes it catchy' without analyzing the emotion it builds."
+    ],
+    "differenceFromSimilar": "Unlike simple repetition, anaphora is structural—it strictly occurs at the beginnings of clauses to create parallel structure.",
+    "literaryExample": "\"It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...\" (Charles Dickens)",
+    "everydayExample": "\"I have a dream... I have a dream...\"",
+    "realExamples": [
+      {
+        "quote": "We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets...",
+        "source": "Winston Churchill",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "What is the primary effect of Churchill's anaphora ('We shall fight...')?",
+      "options": [
+        "To make the speech rhyme.",
+        "To create a sense of relentless, unyielding determination against all odds.",
+        "To list places in a geographical order."
+      ],
+      "correctIndex": 1,
+      "explanation": "Churchill uses anaphora to conceptually surround the listener with the idea of resistance, making surrender seem impossible."
+    },
+    "practiceSentence": "The author uses anaphora to...",
+    "ibLevel7Analysis": "Through the relentless anaphoric repetition of 'we shall fight', the speaker constructs a lexical barrage that mirrors the unending nature of the conflict. This structural choice does not merely emphasize determination; it creates an auditory rhythm of marching, psychologically embedding a sense of inexorable resilience within the audience and subverting any possibility of surrender.",
+    "memoryTrick": "Ana-PHORA = 'Before' (Ana) the phrase starts.",
+    "difficultyLevel": "Beginner",
+    "frequencyInExams": "High",
+    "relatedDevices": [
+      "Epistrophe",
+      "Parallelism",
+      "Repetition"
+    ],
+    "tags": [
+      "Structure",
+      "Rhetoric",
+      "Repetition"
+    ]
+  },
+  {
+    "id": "juxtaposition",
+    "name": "Juxtaposition",
+    "definition": "The placement of two or more things side by side, often in order to bring out their differences.",
+    "simpleExplanation": "Putting two very different things next to each other so their differences stand out more.",
+    "advancedExplanation": "A structural technique that forces the reader to synthesize conflicting images, concepts, or characters, thereby highlighting systemic inequalities, hypocrisy, or existential dualities.",
+    "purpose": "To create stark contrast, highlight discrepancies, or challenge the reader's preconceived notions.",
+    "whyAuthorsUseIt": "To avoid explicitly telling the reader something. By placing two things side-by-side, the author forces the reader to make the connection and draw the conclusion themselves.",
+    "psychologicalEffect": "Creates cognitive dissonance. The brain naturally seeks patterns, and placing opposites together forces the brain to analyze the gap between them.",
+    "readerEffect": "The reader is forced to compare and contrast, leading to a sudden realization or 'aha!' moment regarding the theme.",
+    "emotionalEffect": "Shock, discomfort, or profound realization.",
+    "commonExamUses": [
+      "Comparing settings (wealthy vs poor)",
+      "Foil characters",
+      "Shifting tones in poetry"
+    ],
+    "commonMistakes": [
+      "Confusing it with an oxymoron (oxymoron is strictly two contradicting words, juxtaposition is broader concepts/scenes).",
+      "Merely identifying it without explaining WHAT is being contrasted."
+    ],
+    "differenceFromSimilar": "Oxymoron is lexical (e.g., 'deafening silence'). Juxtaposition is conceptual (e.g., placing a funeral scene immediately after a wedding scene).",
+    "literaryExample": "A newborn baby crying in the middle of a battlefield.",
+    "everydayExample": "A luxury high-rise apartment building constructed right next to a slum.",
+    "realExamples": [
+      {
+        "quote": "Two sunflowers move in the yellow room. / 'Ah, William, we're weary of weather...'",
+        "source": "William Blake",
+        "difficulty": "Advanced"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "Why would an author juxtapose a child's laughter with the sound of artillery?",
+      "options": [
+        "To show that children like loud noises.",
+        "To highlight the tragic loss of innocence by placing purity directly against destruction.",
+        "To create a confusing timeline."
+      ],
+      "correctIndex": 1,
+      "explanation": "Juxtaposition relies on extreme contrast to emphasize the horrific nature of the war by showing exactly what it is destroying (innocence)."
+    },
+    "practiceSentence": "The juxtaposition between X and Y highlights...",
+    "ibLevel7Analysis": "By juxtaposing the sterile, clinical environment of the laboratory with the organic, chaotic description of the subject's memories, the author highlights the fundamental incompatibility between institutional science and human emotion. This stark structural contrast forces the reader to critique the dehumanizing effects of modernity, as the warmth of humanity is visually overwhelmed by cold rationality.",
+    "memoryTrick": "Jux-ta-position = Just-the-positions (placed next to each other).",
+    "difficultyLevel": "Intermediate",
+    "frequencyInExams": "High",
+    "relatedDevices": [
+      "Oxymoron",
+      "Foil",
+      "Contrast",
+      "Paradox"
+    ],
+    "tags": [
+      "Structure",
+      "Contrast",
+      "Imagery"
+    ]
+  },
+  {
+    "id": "polysyndeton",
+    "name": "Polysyndeton",
+    "definition": "The use of several conjunctions (like 'and', 'or', 'but') in close succession, especially where some could otherwise be omitted.",
+    "simpleExplanation": "Using 'and' repeatedly in a list instead of commas to make the list feel endless.",
+    "advancedExplanation": "A syntactic choice that slows the rhythm of prose or poetry, creating an accumulative effect that can simulate breathless panic, childish excitement, or an overwhelming burden.",
+    "purpose": "To stretch out a sentence, slow the pacing, and emphasize the sheer quantity or weight of the items listed.",
+    "whyAuthorsUseIt": "To overwhelm the reader, to create a sense of biblical magnitude, or to mimic a stream-of-consciousness.",
+    "psychologicalEffect": "It prevents the reader from pausing, creating a sense of being pulled uncontrollably through the text. It simulates mental exhaustion or overflowing emotion.",
+    "readerEffect": "The reader feels breathless, overwhelmed, or immersed in the sheer volume of the description.",
+    "emotionalEffect": "Overwhelm, panic, grandeur, or childish wonder.",
+    "commonExamUses": [
+      "Descriptions of chaotic environments",
+      "Emotional breakdowns in prose",
+      "Epic or biblical texts"
+    ],
+    "commonMistakes": [
+      "Just saying 'it speeds up the text.' Polysyndeton actually SLOWS DOWN the text because you have to read every conjunction.",
+      "Confusing it with asyndeton (the lack of conjunctions)."
+    ],
+    "differenceFromSimilar": "Asyndeton removes conjunctions to speed things up. Polysyndeton adds extra conjunctions to slow things down and add weight.",
+    "literaryExample": "\"Let the whitefolks have their money and power and segregation and sarcasm and big houses and schools and lawns like carpets...\" (Maya Angelou)",
+    "everydayExample": "I have to do math and science and english and history and geography tonight.",
+    "realExamples": [
+      {
+        "quote": "If there be cords, or knives, or poison, or fire, or suffocating streams, I'll not endure it.",
+        "source": "William Shakespeare, Othello",
+        "difficulty": "Advanced"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "What is the effect of polysyndeton in Shakespeare's quote?",
+      "options": [
+        "It makes Othello sound highly educated.",
+        "It creates a breathless accumulation of violent methods, emphasizing Othello's descent into irrational panic and despair.",
+        "It speeds up the scene to make it exciting."
+      ],
+      "correctIndex": 1,
+      "explanation": "The repeated 'or' piles the violent images on top of each other, making Othello's emotional burden feel overwhelmingly heavy and inescapable."
+    },
+    "practiceSentence": "The polysyndeton creates a sense of...",
+    "ibLevel7Analysis": "The author's deliberate use of polysyndeton ('and power and segregation and sarcasm') creates a heavy, accumulative rhythm that forces the reader to dwell on each individual grievance. Syntactically, this denies the reader a moment of rest, effectively mirroring the exhausting, inescapable psychological burden of systemic oppression experienced by the speaker.",
+    "memoryTrick": "POLY-syndeton = Poly means MANY (many conjunctions).",
+    "difficultyLevel": "Intermediate",
+    "frequencyInExams": "Medium",
+    "relatedDevices": [
+      "Asyndeton",
+      "Syntax",
+      "Listing"
+    ],
+    "tags": [
+      "Syntax",
+      "Pacing",
+      "Structure"
+    ]
+  },
+  {
+    "id": "asyndeton",
+    "name": "Asyndeton",
+    "definition": "The omission or absence of a conjunction between parts of a sentence.",
+    "simpleExplanation": "Removing 'and' or 'or' from a list to make it sound fast and abrupt.",
+    "advancedExplanation": "A stylistic scheme in which conjunctions are deliberately omitted from a series of related clauses to accelerate rhythm, increase emotional urgency, or create a sense of fragmentation.",
+    "purpose": "To speed up the rhythm of the text, create a sense of immediacy, or suggest that a list is infinite and unresolved.",
+    "whyAuthorsUseIt": "To simulate rapid movement, disjointed thought, panic, or to deliver a blunt, punchy statement without the softening effect of conjunctions.",
+    "psychologicalEffect": "It creates a jagged, rapid cognitive intake. The brain has to process the information faster, simulating an elevated heart rate or a fractured state of mind.",
+    "readerEffect": "The reader feels rushed, disoriented, or struck by the blunt force of the statements.",
+    "emotionalEffect": "Urgency, tension, cold detachment, or chaos.",
+    "commonExamUses": [
+      "Action sequences in prose",
+      "Stream of consciousness showing panic",
+      "Authoritative political speeches"
+    ],
+    "commonMistakes": [
+      "Saying it 'slows down' the text. It actually speeds it up.",
+      "Missing it completely because it's the *absence* of something."
+    ],
+    "differenceFromSimilar": "Opposite of polysyndeton. Asyndeton removes conjunctions (fast), polysyndeton adds them (slow).",
+    "literaryExample": "\"Veni, vidi, vici\" (I came, I saw, I conquered).",
+    "everydayExample": "Reduce, reuse, recycle.",
+    "realExamples": [
+      {
+        "quote": "Are all thy conquests, glories, triumphs, spoils, / Shrunk to this little measure?",
+        "source": "William Shakespeare, Julius Caesar",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "Why did Caesar say 'I came, I saw, I conquered' instead of 'I came, and I saw, and I conquered'?",
+      "options": [
+        "To save breath.",
+        "To make the sequence of events feel rapid, effortless, and inevitably linked.",
+        "Because Romans didn't have a word for 'and'."
+      ],
+      "correctIndex": 1,
+      "explanation": "Asyndeton removes the pauses, making the conquest seem like a single, swift, unstoppable motion."
+    },
+    "practiceSentence": "The asyndetic listing accelerates the pace to...",
+    "ibLevel7Analysis": "The deployment of asyndeton accelerates the narrative pacing, mirroring the protagonist's descending panic. By stripping away conjunctions, the author creates a fractured, breathless syntax that denies the reader any structural comfort, thereby aligning the reader's cognitive experience with the psychological fragmentation of the narrator in the face of trauma.",
+    "memoryTrick": "A-syndeton = ABSENT conjunctions.",
+    "difficultyLevel": "Advanced",
+    "frequencyInExams": "Medium",
+    "relatedDevices": [
+      "Polysyndeton",
+      "Syntax",
+      "Parataxis"
+    ],
+    "tags": [
+      "Syntax",
+      "Pacing",
+      "Structure"
+    ]
+  },
+  {
+    "id": "zoomorphism",
+    "name": "Zoomorphism",
+    "definition": "The attribution of animal traits, behaviors, or forms to human beings, inanimate objects, or abstract concepts.",
+    "simpleExplanation": "Describing a human acting or looking like an animal.",
+    "advancedExplanation": "A specific form of metaphor that strips a human subject of their rational, civilized identity, reducing them to primal, instinctual, or predatory behaviors.",
+    "purpose": "To degrade a character, emphasize predatory nature, or highlight a loss of humanity.",
+    "whyAuthorsUseIt": "To criticize a character's morality, to show how an environment is brutalizing its inhabitants, or to create a threatening, feral atmosphere.",
+    "psychologicalEffect": "It triggers visceral disgust or fear by blurring the boundary between human civilization and wild savagery.",
+    "readerEffect": "The reader views the subject as less than human, either pitying their degradation or fearing their predatory nature.",
+    "emotionalEffect": "Revulsion, fear, or profound pity.",
+    "commonExamUses": [
+      "War poetry (soldiers acting like beasts)",
+      "Dystopian fiction (humans losing humanity)",
+      "Villain descriptions"
+    ],
+    "commonMistakes": [
+      "Confusing it with personification. Personification gives HUMAN traits to non-humans. Zoomorphism gives ANIMAL traits to humans.",
+      "Confusing it with anthropomorphism (animals acting human)."
+    ],
+    "differenceFromSimilar": "Personification: The dog smiled (Human trait to animal). Zoomorphism: The man barked his orders (Animal trait to human).",
+    "literaryExample": "\"He bared his teeth and growled at the waiter.\"",
+    "everydayExample": "She was purring with delight.",
+    "realExamples": [
+      {
+        "quote": "The men were herded into the trucks.",
+        "source": "Common dystopian trope",
+        "difficulty": "Beginner"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "If an author describes a cruel boss 'circling his employees and sniffing out weakness', what is the effect?",
+      "options": [
+        "It shows the boss likes animals.",
+        "It zoomorphizes the boss as a predator, establishing a workplace dynamic based on primal fear and survival rather than professional respect.",
+        "It personifies the employees."
+      ],
+      "correctIndex": 1,
+      "explanation": "Zoomorphism reduces the boss from a professional to a feral predator, changing how we view the power dynamic."
+    },
+    "practiceSentence": "The zoomorphic description of the character suggests...",
+    "ibLevel7Analysis": "By applying zoomorphic imagery—describing the soldiers as 'snarling' and 'clawing' at the dirt—the author systematically strips them of their civilized humanity. This lexical degradation serves as a scathing critique of warfare, suggesting that the battlefield does not create heroes, but rather devolves men into feral beasts driven solely by primal survival instincts.",
+    "memoryTrick": "ZOO-morphism = Turning humans into ZOO animals.",
+    "difficultyLevel": "Intermediate",
+    "frequencyInExams": "Medium",
+    "relatedDevices": [
+      "Personification",
+      "Dehumanization",
+      "Metaphor"
+    ],
+    "tags": [
+      "Imagery",
+      "Diction",
+      "Characterization"
+    ]
+  },
+  {
+    "id": "motif",
+    "name": "Motif",
+    "definition": "A recurring narrative element with symbolic significance. If you spot a symbol, concept, or image multiple times, it is a motif.",
+    "simpleExplanation": "A symbol or idea that keeps showing up over and over again in a story to point toward the main theme.",
+    "advancedExplanation": "A structural pattern of recurring imagery, language, or symbols that unifies a text and acts as a signpost for the author's overarching thematic arguments.",
+    "purpose": "To create thematic resonance, foreshadow events, and weave a cohesive thread throughout a complex narrative.",
+    "whyAuthorsUseIt": "To subconsciously build an association in the reader's mind without having to explicitly state the theme every time.",
+    "psychologicalEffect": "It utilizes the mere-exposure effect. As the reader encounters the motif repeatedly, it accrues heavier emotional and thematic weight, triggering subconscious recognition.",
+    "readerEffect": "The reader begins to anticipate the motif and automatically links it to the broader themes of the text.",
+    "emotionalEffect": "A sense of unity, dread (if a dark motif), or revelation.",
+    "commonExamUses": [
+      "Light/Dark imagery in Shakespeare",
+      "Weather motifs reflecting character states",
+      "Recurring colors (e.g., green in Gatsby)"
+    ],
+    "commonMistakes": [
+      "Confusing a motif with a theme. (Theme: 'The corrupting nature of wealth'. Motif: 'The color gold').",
+      "Mentioning a motif without explaining WHAT theme it connects to."
+    ],
+    "differenceFromSimilar": "A symbol happens once or twice. A motif is a symbol that RECURS systematically throughout the entire text.",
+    "literaryExample": "The recurring presence of blood in Macbeth representing inescapable guilt.",
+    "everydayExample": "The recurring playing of a specific song in a movie every time a character is about to make a bad decision.",
+    "realExamples": [
+      {
+        "quote": "The green light at the end of Daisy's dock.",
+        "source": "F. Scott Fitzgerald, The Great Gatsby",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "How do you correctly analyze a motif in an exam?",
+      "options": [
+        "Count how many times it appears in the book.",
+        "Identify it, explain what it symbolizes, and argue how its repetition develops a specific theme over time.",
+        "State that it makes the book more interesting to read."
+      ],
+      "correctIndex": 1,
+      "explanation": "A motif is only a vehicle for a theme. You must connect the recurring image to the author's underlying message."
+    },
+    "practiceSentence": "The recurring motif of X serves to underscore the theme of...",
+    "ibLevel7Analysis": "The pervasive motif of shattered glass throughout the novel acts as a visual manifestation of the protagonist's fragmented psyche. By continually reintroducing this motif during moments of high tension, the author constructs a structural parallel between the physical environment and mental instability, ultimately arguing that trauma irrevocably splinters human identity.",
+    "memoryTrick": "MOTIF = MOTIVE. It reveals the author's hidden motive/theme.",
+    "difficultyLevel": "Beginner",
+    "frequencyInExams": "High",
+    "relatedDevices": [
+      "Symbolism",
+      "Theme",
+      "Foreshadowing"
+    ],
+    "tags": [
+      "Structure",
+      "Theme",
+      "Symbolism"
+    ]
+  },
+  {
+    "id": "paradox",
+    "name": "Paradox",
+    "definition": "A seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true.",
+    "simpleExplanation": "A statement that seems to contradict itself but actually contains a deep truth.",
+    "advancedExplanation": "A rhetorical device that challenges orthodox logic, forcing the reader to transcend literal interpretation to grasp a complex, often philosophical, truth regarding human nature or society.",
+    "purpose": "To arrest attention, provoke fresh thought, and highlight the complexities and dualities of existence.",
+    "whyAuthorsUseIt": "To show that reality is rarely black-and-white. It forces the reader to pause and engage in active cognitive decoding.",
+    "psychologicalEffect": "It disrupts the reader's schema. The brain initially rejects the statement as false, forcing higher-order critical thinking to resolve the contradiction.",
+    "readerEffect": "The reader experiences a moment of confusion followed by intellectual satisfaction when the deeper truth is realized.",
+    "emotionalEffect": "Intrigue, profound realization, or existential dread.",
+    "commonExamUses": [
+      "War poetry (e.g., dying to live)",
+      "Dystopian literature (e.g., 'War is Peace')",
+      "Metaphysical poetry"
+    ],
+    "commonMistakes": [
+      "Confusing it with an oxymoron. (Oxymoron = two words 'jumbo shrimp'. Paradox = a full concept/sentence).",
+      "Failing to explain the 'hidden truth' behind the contradiction."
+    ],
+    "differenceFromSimilar": "Oxymoron is a compressed paradox of just two adjoining words. A paradox is an entire logical statement.",
+    "literaryExample": "\"I must be cruel to be kind.\" (Shakespeare, Hamlet)",
+    "everydayExample": "\"Less is more.\"",
+    "realExamples": [
+      {
+        "quote": "War is peace. Freedom is slavery. Ignorance is strength.",
+        "source": "George Orwell, 1984",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "What is the hidden truth in the paradox 'I can resist anything except temptation'?",
+      "options": [
+        "The speaker is very strong.",
+        "The speaker is admitting they have absolutely zero self-control, despite phrasing it as a strength.",
+        "The speaker hates temptation."
+      ],
+      "correctIndex": 1,
+      "explanation": "The paradox humorously reveals a flaw by phrasing a weakness (giving into temptation) in the syntactic structure of a strength (resisting)."
+    },
+    "practiceSentence": "Through this paradox, the author reveals the underlying truth that...",
+    "ibLevel7Analysis": "The author utilizes paradox—'in order to save the village, we had to destroy it'—to lay bare the fundamental hypocrisy of the military intervention. This logical contradiction forces the reader to confront the absurdity of the conflict, suggesting that the moral justifications for war are ultimately incompatible with its destructive reality.",
+    "memoryTrick": "PARA-dox = A pair of opposites creating an orthodox truth.",
+    "difficultyLevel": "Advanced",
+    "frequencyInExams": "High",
+    "relatedDevices": [
+      "Oxymoron",
+      "Juxtaposition",
+      "Irony"
+    ],
+    "tags": [
+      "Logic",
+      "Theme",
+      "Rhetoric"
+    ]
+  },
+  {
+    "id": "oxymoron",
+    "name": "Oxymoron",
+    "definition": "A figure of speech in which apparently contradictory terms appear in conjunction.",
+    "simpleExplanation": "Two words next to each other that mean the exact opposite.",
+    "advancedExplanation": "A highly compressed paradox created by pairing mutually exclusive lexical items. It creates a jarring linguistic friction that captures complex, conflicting emotional states.",
+    "purpose": "To reveal a paradox, to show mixed emotions, or to create dramatic irony.",
+    "whyAuthorsUseIt": "To concisely express the turmoil of a character who is experiencing two overwhelming, conflicting emotions simultaneously (like painful love).",
+    "psychologicalEffect": "It creates a micro-stutter in reading fluency, demanding immediate attention to the conflicting concepts and highlighting internal conflict.",
+    "readerEffect": "The reader viscerally feels the tension and impossibility of the situation.",
+    "emotionalEffect": "Tension, confusion, or bittersweet melancholy.",
+    "commonExamUses": [
+      "Shakespearean lovers describing love",
+      "Descriptions of chaotic silence",
+      "Describing profound grief"
+    ],
+    "commonMistakes": [
+      "Listing 'oxymoron' without analyzing why those two specific words were chosen.",
+      "Confusing it with juxtaposition (which is broader)."
+    ],
+    "differenceFromSimilar": "Juxtaposition is placing two contrasting scenes together. Paradox is a contradicting sentence. Oxymoron is just TWO adjoining words.",
+    "literaryExample": "\"Parting is such sweet sorrow.\" (Shakespeare, Romeo and Juliet)",
+    "everydayExample": "\"Deafening silence.\"",
+    "realExamples": [
+      {
+        "quote": "O brawling love! O loving hate!",
+        "source": "William Shakespeare, Romeo and Juliet",
+        "difficulty": "Beginner"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "Why use the oxymoron 'deafening silence' instead of just saying 'it was very quiet'?",
+      "options": [
+        "It uses more words.",
+        "It emphasizes that the absence of sound was so intense and unnatural that it felt like physical pressure on the ears.",
+        "It shows the character is going deaf."
+      ],
+      "correctIndex": 1,
+      "explanation": "The oxymoron highlights the oppressive, heavy nature of the silence, elevating it from a lack of noise to an active, threatening force."
+    },
+    "practiceSentence": "The oxymoron highlights the inherent tension between...",
+    "ibLevel7Analysis": "Romeo's use of the oxymoron 'loving hate' encapsulates his profound psychological dissonance. By forcefully marrying these mutually exclusive concepts at the lexical level, Shakespeare linguistically mirrors the chaos of adolescent passion, suggesting that love in this tragedy is inherently intertwined with violence and destruction.",
+    "memoryTrick": "Oxy-MORON. It sounds 'moronic' to put these two words together, but it makes sense.",
+    "difficultyLevel": "Beginner",
+    "frequencyInExams": "Medium",
+    "relatedDevices": [
+      "Paradox",
+      "Juxtaposition",
+      "Contrast"
+    ],
+    "tags": [
+      "Diction",
+      "Contrast",
+      "Emotion"
+    ]
+  },
+  {
+    "id": "synecdoche",
+    "name": "Synecdoche",
+    "definition": "A figure of speech in which a part is made to represent the whole or vice versa.",
+    "simpleExplanation": "Using a piece of something to talk about the whole thing.",
+    "advancedExplanation": "A rhetorical trope that isolates a specific physical attribute to represent an entire entity. It subtly directs the reader to focus on the specific function or characteristic being named, often dehumanizing the subject.",
+    "purpose": "To focus attention on a specific trait, to dehumanize, or to create colloquial rhythm.",
+    "whyAuthorsUseIt": "If an author refers to workers as 'hands', they are emphasizing that they only care about the physical labor, not the human being attached to it.",
+    "psychologicalEffect": "It fragments the subject in the reader's mind, forcing them to view the entity solely through the lens of its utility or its most prominent feature.",
+    "readerEffect": "The reader subconsciously reduces the subject to that single part, adopting the narrator's biased or limited perspective.",
+    "emotionalEffect": "Detachment, dehumanization, or colloquial familiarity.",
+    "commonExamUses": [
+      "Marxist critiques (workers as parts)",
+      "War poetry (soldiers as boots/rifles)"
+    ],
+    "commonMistakes": [
+      "Confusing it with Metonymy. (Metonymy is an *associated* concept, Synecdoche is a *literal physical part* of the thing)."
+    ],
+    "differenceFromSimilar": "Metonymy: 'The Crown' represents the King (associated object). Synecdoche: 'All hands on deck' represents the sailors (literal physical part of the sailor).",
+    "literaryExample": "\"I should have been a pair of ragged claws / Scuttling across the floors of silent seas.\" (T.S. Eliot)",
+    "everydayExample": "\"Check out my new wheels\" (Wheels = Car).",
+    "realExamples": [
+      {
+        "quote": "The western wave was all a-flame.",
+        "source": "Samuel Taylor Coleridge (Wave = Ocean)",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "If a general says he needs '10,000 boots on the ground', what is the analytical effect of this synecdoche?",
+      "options": [
+        "He is worried about footwear supplies.",
+        "It dehumanizes the soldiers, reducing human lives to mere equipment and highlighting the callous calculus of war.",
+        "It makes the speech sound more formal."
+      ],
+      "correctIndex": 1,
+      "explanation": "By referring to soldiers as 'boots', the general strips them of their faces, families, and humanity, treating them as expendable tools."
+    },
+    "practiceSentence": "Through synecdoche, the author reduces the subject to...",
+    "ibLevel7Analysis": "By employing the synecdoche of 'hired hands' to describe the laborers, the author linguistically severs the workers from their humanity. This rhetorical fragmentation reflects the cold utilitarianism of the capitalist system, which values the proletariat solely for their physical output while entirely erasing their psychological existence.",
+    "memoryTrick": "Syn-ECK-doche. 'Neck' is a PART of the body.",
+    "difficultyLevel": "Advanced",
+    "frequencyInExams": "Medium",
+    "relatedDevices": [
+      "Metonymy",
+      "Metaphor",
+      "Dehumanization"
+    ],
+    "tags": [
+      "Figurative Language",
+      "Diction"
+    ]
+  },
+  {
+    "id": "metonymy",
+    "name": "Metonymy",
+    "definition": "The substitution of the name of an attribute or adjunct for that of the thing meant.",
+    "simpleExplanation": "Referring to something by the name of something else that is closely connected to it.",
+    "advancedExplanation": "A conceptual substitution where an object's associated symbol replaces the object itself. It often serves to elevate the concept to an institutional or abstract level.",
+    "purpose": "To create vivid imagery, to sound more formal, or to invoke the power/authority behind an institution.",
+    "whyAuthorsUseIt": "To abstract a concept. Saying 'Washington passed a law' sounds more imposing and institutional than saying 'The politicians passed a law.'",
+    "psychologicalEffect": "It shifts the reader's focus from the literal object to the cultural or symbolic weight of the associated object.",
+    "readerEffect": "The reader interprets the statement with added layers of cultural, political, or institutional authority.",
+    "emotionalEffect": "Awe, intimidation, or abstraction.",
+    "commonExamUses": [
+      "Political texts",
+      "Media analysis (e.g., 'The Press')",
+      "Symbolic poetry"
+    ],
+    "commonMistakes": [
+      "Confusing it with Synecdoche. Remember: Metonymy = Associated. Synecdoche = Physical part."
+    ],
+    "differenceFromSimilar": "Synecdoche is a literal piece of the object (wheels for car). Metonymy is an associated item (The White House for the President).",
+    "literaryExample": "\"The pen is mightier than the sword.\" (Pen = written word; Sword = military force)",
+    "everydayExample": "\"The suits are coming in for a meeting.\" (Suits = corporate executives).",
+    "realExamples": [
+      {
+        "quote": "As he swung toward them holding up the hand / Half in appeal, but half as if to keep / The life from spilling.",
+        "source": "Robert Frost (Life = Blood)",
+        "difficulty": "Advanced"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "When a news anchor says 'Wall Street panicked today', what is the effect of the metonymy?",
+      "options": [
+        "It means the literal street was scared.",
+        "It abstracts the wealthy investors into an imposing, faceless institution.",
+        "It uses personification to make the street seem alive."
+      ],
+      "correctIndex": 1,
+      "explanation": "Metonymy turns individual, flawed bankers into a monolithic, unapproachable entity."
+    },
+    "practiceSentence": "The use of metonymy elevates the subject to represent...",
+    "ibLevel7Analysis": "The narrator's reliance on metonymy, referring to the monarchy merely as 'The Crown', serves to strip the ruler of their individual humanity. This lexical substitution elevates the concept of rulership into a cold, faceless institution of power, reinforcing the overarching theme of the individual being crushed by systemic authority.",
+    "memoryTrick": "Metonymy = METaphorical SYNONYM (an associated word).",
+    "difficultyLevel": "Advanced",
+    "frequencyInExams": "Medium",
+    "relatedDevices": [
+      "Synecdoche",
+      "Symbolism",
+      "Metaphor"
+    ],
+    "tags": [
+      "Figurative Language",
+      "Diction"
+    ]
+  },
+  {
+    "id": "caesura",
+    "name": "Caesura",
+    "definition": "A pause near the middle of a line of poetry, usually indicated by punctuation.",
+    "simpleExplanation": "A hard stop (like a period or dash) right in the middle of a line of a poem.",
+    "advancedExplanation": "A structural interruption within a metrical foot that fractures the rhythm of a poem. It forces a cognitive and auditory pause, drawing intense focus to the words immediately preceding and following the break.",
+    "purpose": "To disrupt rhythm, create hesitation, mimic natural speech, or emphasize a sudden realization.",
+    "whyAuthorsUseIt": "To break a hypnotic rhythm, to show a character's fractured mental state, or to physically force the reader to stop and absorb a shocking image.",
+    "psychologicalEffect": "It creates a jarring auditory halt. The reader's natural reading flow is abruptly severed, mimicking a sudden intake of breath, a shock, or a heartbeat skipping.",
+    "readerEffect": "The reader feels a sense of hesitation, fracture, or sudden emphasis.",
+    "emotionalEffect": "Shock, grief, hesitation, or profound finality.",
+    "commonExamUses": [
+      "War poetry (mimicking gunfire or death)",
+      "Grief poetry (mimicking choking up)",
+      "Dramatic monologues"
+    ],
+    "commonMistakes": [
+      "Mentioning caesura without explaining WHAT emotion the pause creates.",
+      "Confusing it with enjambment (which happens at the END of a line, not the middle)."
+    ],
+    "differenceFromSimilar": "Enjambment pulls the reader forward to the next line. Caesura stops the reader dead in their tracks in the middle of a line.",
+    "literaryExample": "\"To err is human; || to forgive, divine.\" (Alexander Pope)",
+    "everydayExample": "Any sentence where you pause... in the middle.",
+    "realExamples": [
+      {
+        "quote": "I'm nobody! Who are you? / Are you – nobody – too?",
+        "source": "Emily Dickinson",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "If a poem about a soldier's death places a period in the dead center of the line, what is the effect?",
+      "options": [
+        "It makes the poem rhyme better.",
+        "The violent structural stop mimics the sudden, unnatural halting of the soldier's life.",
+        "It gives the reader time to breathe."
+      ],
+      "correctIndex": 1,
+      "explanation": "Form reflects content. A sudden stop in the text mirrors a sudden stop in life."
+    },
+    "practiceSentence": "The jarring caesura fractures the rhythm, mirroring...",
+    "ibLevel7Analysis": "Dickinson's heavy reliance on dashes creates multiple medial caesuras that violently fracture the iambic rhythm. This structural hesitation not only mimics the breathless, erratic thought process of the isolated speaker, but actively denies the reader any sense of rhythmic comfort, perfectly encapsulating the poem's theme of social alienation and neurosis.",
+    "memoryTrick": "Caesura sounds like SCISSORS. It cuts the line in half.",
+    "difficultyLevel": "Examiner",
+    "frequencyInExams": "High",
+    "relatedDevices": [
+      "Enjambment",
+      "Syntax",
+      "Meter"
+    ],
+    "tags": [
+      "Poetry",
+      "Structure",
+      "Rhythm"
+    ]
+  },
+  {
+    "id": "enjambment",
+    "name": "Enjambment",
+    "definition": "The continuation of a sentence without a pause beyond the end of a line, couplet, or stanza.",
+    "simpleExplanation": "When a sentence in a poem spills over onto the next line without any punctuation to stop it.",
+    "advancedExplanation": "A prosodic device where syntax overrides lineation. It propels the reader forward, accelerating the pace, creating duality of meaning at the line break, or simulating an uncontrollable flow of thought.",
+    "purpose": "To create fluidity, to speed up pacing, to mimic natural speech, or to build tension before resolving the thought on the next line.",
+    "whyAuthorsUseIt": "To make a poem feel less robotic, to simulate an overflowing emotion that cannot be contained by strict structures, or to emphasize the first word of the next line.",
+    "psychologicalEffect": "It creates forward momentum and mild suspense. The brain wants to complete the syntactic unit, forcing the eye to jump quickly to the next line.",
+    "readerEffect": "The reader feels a sense of urgency, momentum, or lack of control.",
+    "emotionalEffect": "Panic, freedom, uncontrollable passion, or rapid descent.",
+    "commonExamUses": [
+      "Poems about nature (flowing water)",
+      "Poems about panic/loss of control",
+      "Modernist free verse"
+    ],
+    "commonMistakes": [
+      "Just saying 'it makes it flow better'. You must link the 'flow' to the THEME (e.g., 'the unstoppable flow of time').",
+      "Ignoring the specific word that is isolated at the start of the next line."
+    ],
+    "differenceFromSimilar": "Opposite of an end-stopped line. End-stopped = period at the end of the line. Enjambment = no punctuation, thought continues.",
+    "literaryExample": "\"April is the cruellest month, breeding / Lilacs out of the dead land...\" (T.S. Eliot)",
+    "everydayExample": "I think that I shall never see / A billboard lovely as a tree.",
+    "realExamples": [
+      {
+        "quote": "Or if Sion hill / Delight thee more, and Siloa's brook that flow'd / Fast by the oracle of God...",
+        "source": "John Milton, Paradise Lost",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "If a poet uses enjambment to describe a river, what is the structural effect?",
+      "options": [
+        "It makes the poem shorter.",
+        "The lack of punctuation allows the lines to spill into one another, visually and audibly mirroring the unstoppable, fluid motion of the water.",
+        "It confuses the reader."
+      ],
+      "correctIndex": 1,
+      "explanation": "Form mimics content. The structure of the poem behaves like the subject it is describing."
+    },
+    "practiceSentence": "The enjambment propels the reader forward, reflecting...",
+    "ibLevel7Analysis": "The author utilizes relentless enjambment across the first stanza, denying the reader any structural pause. This syntactic spilling over line breaks cultivates a breathless, accelerating rhythm that perfectly mirrors the protagonist's spiraling loss of control. Furthermore, by enjambing the line before the verb 'shatters', the author places immense visual emphasis on the moment of destruction.",
+    "memoryTrick": "En-JAMB-ment. The sentence is JAMMED into the next line.",
+    "difficultyLevel": "Advanced",
+    "frequencyInExams": "High",
+    "relatedDevices": [
+      "Caesura",
+      "Syntax",
+      "Form"
+    ],
+    "tags": [
+      "Poetry",
+      "Structure",
+      "Rhythm"
+    ]
+  },
+  {
+    "id": "litotes",
+    "name": "Litotes",
+    "definition": "Ironical understatement in which an affirmative is expressed by the negative of its contrary.",
+    "simpleExplanation": "Saying something is true by saying its opposite is NOT true (e.g., 'Not bad' instead of 'Good').",
+    "advancedExplanation": "A form of rhetorical understatement that relies on double negatives to affirm a positive. It cultivates a tone of modest detachment, wry irony, or deliberate downplaying of extreme circumstances.",
+    "purpose": "To create irony, to sound modest, or to highlight a severe situation by deliberately understating it.",
+    "whyAuthorsUseIt": "To create a sarcastic or dry narrative voice, or to emphasize the horror of a situation by having a character react to it with chilling nonchalance.",
+    "psychologicalEffect": "It forces the reader to mentally process a double negative, creating a slight cognitive delay that highlights the narrator's emotional detachment.",
+    "readerEffect": "The reader recognizes the irony and aligns with the narrator's dry or traumatized perspective.",
+    "emotionalEffect": "Stoicism, dry humor, irony, or chilling detachment.",
+    "commonExamUses": [
+      "Stoic characters",
+      "British literature",
+      "Traumatized narrators understating horror"
+    ],
+    "commonMistakes": [
+      "Confusing it with standard understatement. Litotes MUST use a negative (like 'not')."
+    ],
+    "differenceFromSimilar": "Understatement: 'It's a bit cold' (when it's freezing). Litotes: 'It's not exactly warm.'",
+    "literaryExample": "\"He's no fool.\" (Meaning: He is smart).",
+    "everydayExample": "\"Well, that wasn't a total disaster.\"",
+    "realExamples": [
+      {
+        "quote": "I am not unaware how the productions of the Grub Street brotherhood have of late years fallen under many prejudices.",
+        "source": "Jonathan Swift",
+        "difficulty": "Advanced"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "If a soldier looking at a destroyed city says, 'Well, it's not the prettiest view', what is the analytical effect?",
+      "options": [
+        "The soldier is bad at describing things.",
+        "The litotes creates a chilling tone of emotional detachment, suggesting the soldier is so traumatized that he can only process the horror through dry irony.",
+        "The soldier actually thinks it looks okay."
+      ],
+      "correctIndex": 1,
+      "explanation": "The extreme understatement contrasts violently with the reality of the destruction, highlighting psychological numbness."
+    },
+    "practiceSentence": "Through the use of litotes, the narrator establishes a tone of...",
+    "ibLevel7Analysis": "The narrator's reliance on litotes—describing the catastrophic betrayal as 'not entirely pleasant'—establishes a facade of stoic detachment. This rhetorical minimization ironically amplifies the emotional devastation for the reader; the gap between the horrific reality of the event and the narrator's chillingly casual description exposes a deeply traumatized psyche attempting to repress pain through linguistic control.",
+    "memoryTrick": "LITOTES = 'Little'. Making something seem little through double negatives.",
+    "difficultyLevel": "Advanced",
+    "frequencyInExams": "Low",
+    "relatedDevices": [
+      "Understatement",
+      "Irony",
+      "Euphemism"
+    ],
+    "tags": [
+      "Tone",
+      "Rhetoric",
+      "Irony"
+    ]
+  },
+  {
+    "id": "pathetic-fallacy",
+    "name": "Pathetic Fallacy",
+    "definition": "The attribution of human feelings and responses to inanimate things or animals, especially in art and literature.",
+    "simpleExplanation": "When the weather or the environment matches the mood of the characters (e.g., raining at a funeral).",
+    "advancedExplanation": "A specific subset of personification where the natural environment acts as a macro-reflection of a character's internal psychological state, externalizing abstract emotions into tangible, atmospheric imagery.",
+    "purpose": "To establish mood, foreshadow events, or project a character's internal emotional landscape onto the physical world.",
+    "whyAuthorsUseIt": "To visually represent an invisible emotion. Instead of saying 'He was sad', the author makes the sky weep.",
+    "psychologicalEffect": "It creates an immersive, emotionally saturated environment. The reader feels the character's emotion pressing in from all sides of the physical setting.",
+    "readerEffect": "The reader anticipates the tone of the scene based on the environmental cues.",
+    "emotionalEffect": "Melancholy, tension, dread, or joy.",
+    "commonExamUses": [
+      "Gothic literature (storms = chaos)",
+      "Romantic poetry",
+      "Setting the scene in prose"
+    ],
+    "commonMistakes": [
+      "Confusing it with personification. (Personification = 'The toaster danced'. Pathetic Fallacy = 'The angry storm raged'). Pathetic fallacy is specifically about EMOTION and WEATHER/NATURE."
+    ],
+    "differenceFromSimilar": "Personification applies ANY human trait to an object. Pathetic fallacy specifically projects HUMAN EMOTION onto the NATURAL ENVIRONMENT.",
+    "literaryExample": "\"The night has been unruly. Where we lay, / Our chimneys were blown down...\" (Shakespeare, Macbeth - matching the murder of the King).",
+    "everydayExample": "It starts pouring rain right after a character gets broken up with.",
+    "realExamples": [
+      {
+        "quote": "The sullen wind was soon awake, / It tore the elm-tops down for spite...",
+        "source": "Robert Browning, Porphyria's Lover",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "Why does the author describe the wind as 'sullen' and acting out of 'spite' before the murder occurs?",
+      "options": [
+        "To show that weather can be dangerous.",
+        "To project the narrator's own suppressed anger and violent intentions onto the environment, foreshadowing the murder.",
+        "Because it was a very windy day."
+      ],
+      "correctIndex": 1,
+      "explanation": "The environment is acting out the violent emotions that the character is currently suppressing."
+    },
+    "practiceSentence": "The pathetic fallacy externalizes the character's...",
+    "ibLevel7Analysis": "By employing pathetic fallacy—describing the landscape as 'weeping' and 'bruised'—the author externalizes the protagonist's internal psychological decay. The environment ceases to be a mere backdrop and becomes an active participant in the narrative, overwhelming the reader with a pervasive atmosphere of grief that mirrors the inescapability of the character's depression.",
+    "memoryTrick": "PATHETIC = EmPATHY. The weather empathizes with the character's feelings.",
+    "difficultyLevel": "Intermediate",
+    "frequencyInExams": "High",
+    "relatedDevices": [
+      "Personification",
+      "Imagery",
+      "Foreshadowing"
+    ],
+    "tags": [
+      "Setting",
+      "Imagery",
+      "Mood"
+    ]
+  },
+  {
+    "id": "epizeuxis",
+    "name": "Epizeuxis",
+    "definition": "The repetition of a word or phrase in immediate succession, typically within the same sentence, for vehemence or emphasis.",
+    "simpleExplanation": "Repeating the exact same word right next to itself (e.g., 'No, no, no!').",
+    "advancedExplanation": "An aggressive syntactic device that strips language of its structural complexity, reducing communication to raw, unadulterated emotion. It represents a collapse of rational articulation.",
+    "purpose": "To express extreme emotion (panic, grief, rage) where standard vocabulary fails the speaker.",
+    "whyAuthorsUseIt": "To demonstrate that a character has reached an emotional breaking point where they can no longer form coherent, complex sentences.",
+    "psychologicalEffect": "It assaults the reader auditorily, creating a jarring, obsessive rhythm that mimics a panic attack or blind rage.",
+    "readerEffect": "The reader viscerally feels the character's loss of control and the intensity of their fixation.",
+    "emotionalEffect": "Hysteria, overwhelming grief, desperation, or madness.",
+    "commonExamUses": [
+      "Tragic plays (moments of death/discovery)",
+      "Psychological thrillers",
+      "Climactic moments of realization"
+    ],
+    "commonMistakes": [
+      "Calling it just 'repetition'. (Use the precise term to impress the examiner).",
+      "Failing to explain that it shows a BREAKDOWN of language."
+    ],
+    "differenceFromSimilar": "Anaphora has words between the repetition. Epizeuxis is immediate, back-to-back repetition with no intervening words.",
+    "literaryExample": "\"O horror, horror, horror!\" (Shakespeare, Macbeth)",
+    "everydayExample": "\"Wait, wait, wait, what are you doing?\"",
+    "realExamples": [
+      {
+        "quote": "Never, never, never, never, never!",
+        "source": "William Shakespeare, King Lear",
+        "difficulty": "Advanced"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "Why does King Lear repeat 'never' five times when holding his dead daughter?",
+      "options": [
+        "He forgot what he wanted to say.",
+        "The epizeuxis signifies the total collapse of his rational mind; his grief is so absolute that all other language has been obliterated.",
+        "To make the sentence longer."
+      ],
+      "correctIndex": 1,
+      "explanation": "At the height of tragedy, eloquent language fails. Epizeuxis represents raw, unfiltered emotion."
+    },
+    "practiceSentence": "The frantic epizeuxis underscores the character's...",
+    "ibLevel7Analysis": "The protagonist's reliance on epizeuxis in the climax—screaming 'mine, mine, mine'—signals a total regression into primal obsession. This structural breakdown of complex syntax into repetitive, monosyllabic chanting reflects the deterioration of his rational mind. Language itself collapses under the weight of his greed, leaving only raw, unfiltered id.",
+    "memoryTrick": "Epi-ZEUX-is. Sounds like 'Zeus' throwing repeated lightning bolts back-to-back.",
+    "difficultyLevel": "Examiner",
+    "frequencyInExams": "Low",
+    "relatedDevices": [
+      "Repetition",
+      "Anaphora",
+      "Syntax"
+    ],
+    "tags": [
+      "Diction",
+      "Syntax",
+      "Emotion"
+    ]
+  },
+  {
+    "id": "synesthesia",
+    "name": "Synesthesia",
+    "definition": "A rhetorical device that blends different sensory modalities, describing one kind of sense impression using words that normally describe another.",
+    "simpleExplanation": "Mixing up the senses, like 'tasting a color' or 'hearing a shape'.",
+    "advancedExplanation": "A sophisticated imagistic technique that creates semantic friction by crossing sensory boundaries. It cultivates an overwhelmingly immersive, almost hallucinatory atmosphere.",
+    "purpose": "To create startling, original imagery that forces the reader to imagine an experience beyond standard sensory limits.",
+    "whyAuthorsUseIt": "To portray an environment as intoxicating, chaotic, or magical, or to show a narrator whose perceptions are heightened or distorted.",
+    "psychologicalEffect": "It forces cognitive synthesis in the reader's brain, activating multiple sensory processing centers simultaneously, resulting in a hyper-vivid mental image.",
+    "readerEffect": "The reader feels immersed in a rich, overwhelming, or surreal environment.",
+    "emotionalEffect": "Intoxication, disorientation, intense beauty, or sensory overload.",
+    "commonExamUses": [
+      "Romantic poetry (Keats)",
+      "Descriptions of jazz/music in literature",
+      "Drug-induced or magical states"
+    ],
+    "commonMistakes": [
+      "Missing it entirely because it reads like a normal metaphor.",
+      "Failing to identify WHICH two senses are being mixed."
+    ],
+    "differenceFromSimilar": "Standard imagery appeals to one sense at a time. Synesthesia forcibly merges two (e.g., Auditory + Visual).",
+    "literaryExample": "\"The scent of the roses rang like a bell through the garden.\"",
+    "everydayExample": "\"That shirt is a really loud color.\"",
+    "realExamples": [
+      {
+        "quote": "Back to the region where the sun is silent.",
+        "source": "Dante, The Inferno",
+        "difficulty": "Advanced"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "Dante describes Hell as a place where 'the sun is silent'. What is the effect of this synesthesia?",
+      "options": [
+        "It means Hell is very quiet.",
+        "By replacing the visual expectation of light with the auditory absence of sound, it makes the darkness feel unnatural, oppressive, and absolute.",
+        "It shows Dante is blind."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mixing light (visual) with silence (auditory) creates an eerie, unnatural atmosphere that a standard description of 'darkness' could not achieve."
+    },
+    "practiceSentence": "By utilizing synesthesia, the author creates a sensory experience that...",
+    "ibLevel7Analysis": "The author's use of synesthesia—describing the jazz music as 'tasting of sharp yellow brass'—plunges the reader into a state of sensory overload. By collapsing the boundaries between the auditory, gustatory, and visual domains, the prose mimics the intoxicating, chaotic energy of the 1920s club scene, rendering the atmosphere not just audible, but physically consumable.",
+    "memoryTrick": "Syn-ESTHESIA. Like 'Anesthesia' (which puts senses to sleep), this wakes up mixed senses.",
+    "difficultyLevel": "Advanced",
+    "frequencyInExams": "Low",
+    "relatedDevices": [
+      "Imagery",
+      "Metaphor"
+    ],
+    "tags": [
+      "Imagery",
+      "Diction"
+    ]
+  },
+  {
+    "id": "euphemism",
+    "name": "Euphemism",
+    "definition": "A mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something unpleasant or embarrassing.",
+    "simpleExplanation": "Using a polite or soft word to cover up something harsh, offensive, or taboo.",
+    "advancedExplanation": "A rhetorical cloaking device used to sanitize reality, obscure moral culpability, or adhere to strict social proprieties. It reveals a societal or psychological reluctance to confront truth.",
+    "purpose": "To soften a blow, to manipulate public perception, or to reveal a character's inability to face reality.",
+    "whyAuthorsUseIt": "To expose the hypocrisy of governments/institutions (who use euphemisms to hide atrocities), or to show a character's fragile psychological state.",
+    "psychologicalEffect": "It distances the reader and the speaker from the emotional trauma or moral weight of the actual event.",
+    "readerEffect": "The reader either accepts the softened reality (if naive) or recognizes the irony and critiques the speaker's cowardice/manipulation.",
+    "emotionalEffect": "Detachment, political sterilization, or dramatic irony.",
+    "commonExamUses": [
+      "Dystopian literature (e.g., 'Release' instead of Death)",
+      "Political speeches",
+      "Victorian literature hiding taboo subjects"
+    ],
+    "commonMistakes": [
+      "Identifying it without explaining WHY the character is hiding the truth.",
+      "Confusing it with its opposite, dysphemism."
+    ],
+    "differenceFromSimilar": "Euphemism makes a bad thing sound good ('collateral damage'). Dysphemism makes a neutral thing sound terrible ('snail mail').",
+    "literaryExample": "\"He passed away\" instead of \"He died.\"",
+    "everydayExample": "\"We are letting you go\" instead of \"You are fired.\"",
+    "realExamples": [
+      {
+        "quote": "The Ministry of Peace concerns itself with war.",
+        "source": "George Orwell, 1984",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "If a dystopian government calls a prison a 'Joycamp', what is the analytical effect?",
+      "options": [
+        "It shows the prisoners are happy.",
+        "The euphemism weaponizes language to obscure state-sanctioned torture, revealing how authoritarian regimes manipulate truth to maintain control.",
+        "It makes the setting sound more pleasant for the reader."
+      ],
+      "correctIndex": 1,
+      "explanation": "The extreme gap between the polite word and the horrific reality highlights the insidious nature of the government's propaganda."
+    },
+    "practiceSentence": "The deployment of this euphemism serves to sanitize...",
+    "ibLevel7Analysis": "The general's consistent reliance on the euphemism 'collateral damage' to describe civilian casualties acts as a linguistic shield against moral culpability. By sanitizing the visceral horror of death into bureaucratic, sterile jargon, the author critiques the dehumanizing nature of modern warfare, where human lives are reduced to manageable, emotionally detached statistics.",
+    "memoryTrick": "EUPH-emism = Sounds like 'YOUTH'. Speaking gently like you would to a youth.",
+    "difficultyLevel": "Beginner",
+    "frequencyInExams": "High",
+    "relatedDevices": [
+      "Litotes",
+      "Irony",
+      "Jargon"
+    ],
+    "tags": [
+      "Diction",
+      "Tone",
+      "Theme"
+    ]
+  },
+  {
+    "id": "hypophora",
+    "name": "Hypophora",
+    "definition": "A figure of speech in which a writer raises a question and then immediately provides an answer to that question.",
+    "simpleExplanation": "Asking a question and then answering it yourself right away.",
+    "advancedExplanation": "A highly authoritative rhetorical tactic. By controlling both the inquiry and the resolution, the speaker dominates the intellectual framework of the discourse, leaving no room for alternative perspectives.",
+    "purpose": "To guide the audience's thought process, preempt counter-arguments, and establish intellectual dominance.",
+    "whyAuthorsUseIt": "To make a character sound persuasive, commanding, or manipulative in a speech or monologue.",
+    "psychologicalEffect": "It simulates a dialogue, making the audience feel engaged, but secretly strips them of their ability to answer, forcing them to accept the speaker's premise.",
+    "readerEffect": "The reader feels led to a logical conclusion, often accepting the speaker's authority without questioning it.",
+    "emotionalEffect": "Authority, persuasiveness, or manipulation.",
+    "commonExamUses": [
+      "Persuasive speeches",
+      "Dictator monologues",
+      "Didactic (teaching) texts"
+    ],
+    "commonMistakes": [
+      "Confusing it with a Rhetorical Question. A rhetorical question is left UNANSWERED. Hypophora is explicitly ANSWERED."
+    ],
+    "differenceFromSimilar": "Rhetorical Question: 'Who cares?' (Leaves silence). Hypophora: 'Who cares? I care.' (Answers it).",
+    "literaryExample": "\"What should honest citizens do? They should rebel.\"",
+    "everydayExample": "\"Are we going to let them win? Absolutely not.\"",
+    "realExamples": [
+      {
+        "quote": "What is our policy? I will say: It is to wage war, by sea, land and air...",
+        "source": "Winston Churchill",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "Why does a politician use hypophora instead of just making a statement?",
+      "options": [
+        "To fill up time.",
+        "To preempt the audience's internal doubts, articulate them, and immediately crush them with a confident answer, asserting total control over the narrative.",
+        "Because they like asking questions."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hypophora is about control. You ask the question the audience is thinking, and you give them the answer you want them to have."
+    },
+    "practiceSentence": "Through hypophora, the speaker preempts doubt and asserts...",
+    "ibLevel7Analysis": "The dictator's use of hypophora—'Do we fear the West? We fear nothing'—is a masterclass in rhetorical manipulation. By articulating the populace's unspoken anxieties and immediately overwriting them with a definitive, authoritative answer, the speaker successfully monopolizes the intellectual space. This linguistic control mirrors his political control, leaving no oxygen for dissenting thought.",
+    "memoryTrick": "Hypo-PHORA = Sounds like 'Hyper For Ya'. I'll answer it FOR YA.",
+    "difficultyLevel": "Intermediate",
+    "frequencyInExams": "Medium",
+    "relatedDevices": [
+      "Rhetorical Question",
+      "Syntax",
+      "Persuasion"
+    ],
+    "tags": [
+      "Syntax",
+      "Rhetoric"
+    ]
+  },
+  {
+    "id": "chiasmus",
+    "name": "Chiasmus",
+    "definition": "A rhetorical or literary figure in which words, grammatical constructions, or concepts are repeated in reverse order, in the same or a modified form.",
+    "simpleExplanation": "A sentence that reverses its own structure in the second half (A-B-B-A structure).",
+    "advancedExplanation": "A highly symmetrical syntactic device that creates a sense of closed, inescapable logic. The mirror-image structure visually and auditorily traps the concepts within each other, suggesting an absolute, unalterable truth.",
+    "purpose": "To create a memorable aphorism, to show the interconnectedness of two ideas, or to create a sense of paradox and inevitability.",
+    "whyAuthorsUseIt": "To make a statement sound universally true, balanced, and perfectly resolved.",
+    "psychologicalEffect": "The brain loves symmetry. The A-B-B-A structure creates a satisfying sense of completion, making the statement feel profoundly true and unquestionable.",
+    "readerEffect": "The reader accepts the statement as a profound, balanced truth.",
+    "emotionalEffect": "Satisfaction, inevitability, or profound realization.",
+    "commonExamUses": [
+      "Philosophical texts",
+      "Poetry dealing with balance/opposites",
+      "Political maxims"
+    ],
+    "commonMistakes": [
+      "Misidentifying it. It MUST follow the ABBA cross structure.",
+      "Failing to explain how the reversal changes or deepens the meaning."
+    ],
+    "differenceFromSimilar": "Parallelism repeats the same structure (A-B, A-B). Chiasmus reverses it (A-B, B-A).",
+    "literaryExample": "\"Fair is foul, and foul is fair.\" (Shakespeare, Macbeth)",
+    "everydayExample": "\"Never let a Fool Kiss You or a Kiss Fool You.\"",
+    "realExamples": [
+      {
+        "quote": "Ask not what your country can do for you — ask what you can do for your country.",
+        "source": "John F. Kennedy",
+        "difficulty": "Advanced"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "What is the structural effect of the chiasmus 'Fair is foul, and foul is fair'?",
+      "options": [
+        "It makes it easy to remember.",
+        "The mirrored A-B-B-A structure creates a closed, inescapable loop, symbolizing how morality has been completely inverted and trapped in chaos.",
+        "It just sounds poetic."
+      ],
+      "correctIndex": 1,
+      "explanation": "The structure perfectly reflects the theme of the play: a world where right and wrong have been hopelessly intertwined and reversed."
+    },
+    "practiceSentence": "The chiastic structure perfectly mirrors the theme of...",
+    "ibLevel7Analysis": "Kennedy's deployment of chiasmus—'what your country can do for you / what you can do for your country'—is not merely decorative; it is deeply ideological. The syntactical inversion forces a cognitive shift in the audience, pivoting them from passive consumers of the state (A-B) to active agents of civic duty (B-A). The elegant symmetry of the phrase makes this transfer of responsibility feel both natural and morally absolute.",
+    "memoryTrick": "Chiasmus is named after the Greek letter Chi (X). The concepts cross over each other like an X.",
+    "difficultyLevel": "Examiner",
+    "frequencyInExams": "Low",
+    "relatedDevices": [
+      "Antimetabole",
+      "Syntax",
+      "Parallelism"
+    ],
+    "tags": [
+      "Syntax",
+      "Structure"
+    ]
+  },
+  {
+    "id": "allegory",
+    "name": "Allegory",
+    "definition": "A story, poem, or picture that can be interpreted to reveal a hidden meaning, typically a moral or political one.",
+    "simpleExplanation": "A story where everything (characters, events) represents a bigger real-world concept.",
+    "advancedExplanation": "A macro-structural metaphor spanning an entire text. It operates simultaneously on a literal narrative plane and a symbolic ideological plane, allowing authors to critique dangerous political or social realities under the guise of fiction.",
+    "purpose": "To critique society, teach a moral lesson, or safely discuss taboo/dangerous political topics.",
+    "whyAuthorsUseIt": "During times of censorship, authors use allegory to attack the government without explicitly naming them (e.g., Animal Farm).",
+    "psychologicalEffect": "It requires dual-processing. The reader must continuously map the fictional events onto real-world historical or moral equivalents.",
+    "readerEffect": "The reader feels a sense of intellectual discovery as they decode the true meaning of the text.",
+    "emotionalEffect": "Political outrage, moral enlightenment, or cynical realization.",
+    "commonExamUses": [
+      "Entire novels (Paper 2)",
+      "Fables",
+      "Political critiques"
+    ],
+    "commonMistakes": [
+      "Confusing it with a simple symbol. (A symbol is an object; an allegory is the ENTIRE STORY).",
+      "Failing to decode the allegory in your essay (you must state what the real-world equivalent is)."
+    ],
+    "differenceFromSimilar": "Metaphor compares two things briefly. Allegory is an extended metaphor that dictates the entire plot and character roster of a book.",
+    "literaryExample": "George Orwell's 'Animal Farm' is an allegory for the Russian Revolution.",
+    "everydayExample": "The story of 'The Tortoise and the Hare' is an allegory for the value of persistence.",
+    "realExamples": [
+      {
+        "quote": "The pigs walked on two legs and carried whips.",
+        "source": "George Orwell, Animal Farm",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "Why did Arthur Miller write 'The Crucible' as an allegory about the 1692 Salem Witch Trials instead of just writing directly about 1950s McCarthyism?",
+      "options": [
+        "He liked the 1600s aesthetic.",
+        "To provide a safer, abstracted distance to critique contemporary political hysteria without being immediately arrested for treason.",
+        "Because he didn't know enough about the 1950s."
+      ],
+      "correctIndex": 1,
+      "explanation": "Allegory provides a shield. By criticizing the past, he forces the audience to recognize the exact same flaws in their present."
+    },
+    "practiceSentence": "Operating as a political allegory, the text ultimately critiques...",
+    "ibLevel7Analysis": "By structuring the narrative as an allegory, the author forces the reader into a dual-reading experience. On the surface, it is a tale of stranded children, but allegorically, it operates as a devastating critique of inherent human evil. Golding utilizes the microcosm of the island to systematically dismantle the illusion of societal civilization, ultimately arguing that the beast of savagery resides inherently within the human psyche, regardless of structural societal norms.",
+    "memoryTrick": "ALL-egory = ALL of the story is a symbol.",
+    "difficultyLevel": "Advanced",
+    "frequencyInExams": "High",
+    "relatedDevices": [
+      "Symbolism",
+      "Extended Metaphor",
+      "Fable"
+    ],
+    "tags": [
+      "Form",
+      "Theme",
+      "Genre"
+    ]
+  },
+  {
+    "id": "metaphor",
+    "name": "Metaphor",
+    "definition": "A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable.",
+    "simpleExplanation": "Saying one thing IS another thing to create a strong comparison.",
+    "advancedExplanation": "A cognitive tool that maps the attributes of a 'vehicle' onto a 'tenor', forcing the reader to synthesize the two and view the subject through a completely new, often emotional, lens.",
+    "purpose": "To create vivid imagery, convey abstract concepts through concrete terms, and evoke specific emotional responses.",
+    "whyAuthorsUseIt": "To avoid explaining things literally, instead giving the reader an image that carries instant emotional weight and connotations.",
+    "psychologicalEffect": "Forces the brain to find the connection between two dissimilar things, creating a powerful 'aha' moment of realization.",
+    "readerEffect": "The reader visualizes the subject in a much more intense, visceral way.",
+    "emotionalEffect": "Varies entirely based on the vehicle (e.g., comparing a man to a lion creates awe/fear; to a rat creates disgust).",
+    "commonExamUses": [
+      "Character descriptions",
+      "Setting the atmosphere",
+      "Expressing abstract emotions (like grief)"
+    ],
+    "commonMistakes": [
+      "Just identifying it without analyzing the connotations of the vehicle.",
+      "Confusing it with a simile (which uses 'like' or 'as')."
+    ],
+    "differenceFromSimilar": "Unlike a simile, a metaphor equates the two things directly, making the comparison stronger and more absolute.",
+    "literaryExample": "\"All the world's a stage, and all the men and women merely players.\" (Shakespeare)",
+    "everydayExample": "He is a shining star.",
+    "realExamples": [
+      {
+        "quote": "The sun in the west was a drop of burning gold that slid nearer and nearer the sill of the world.",
+        "source": "William Golding, Lord of the Flies",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "What is the primary effect of comparing the classroom to a 'zoo'?",
+      "options": [
+        "To suggest there are literal animals in the room.",
+        "To map the connotations of chaos, wildness, and lack of civilization onto the students.",
+        "To show that the teacher likes animals."
+      ],
+      "correctIndex": 1,
+      "explanation": "The metaphor relies on the vehicle ('zoo') to impart its chaotic connotations onto the tenor ('classroom')."
+    },
+    "practiceSentence": "Through the metaphor of [X], the author implies...",
+    "ibLevel7Analysis": "By employing the metaphor of a 'gilded cage', the author masterfully captures the protagonist's paradox of privilege and imprisonment. The 'gold' connotes wealth and societal envy, while 'cage' forcefully maps the reality of entrapment onto her domestic life, exposing the superficiality of her aristocratic existence.",
+    "memoryTrick": "Metaphor = Meta (change) + Phor (carry) - carrying meaning from one thing to another.",
+    "difficultyLevel": "Beginner",
+    "frequencyInExams": "Very High",
+    "relatedDevices": [
+      "Simile",
+      "Conceit",
+      "Extended Metaphor"
+    ],
+    "tags": [
+      "Imagery",
+      "Figurative Language",
+      "Comparison"
+    ]
+  },
+  {
+    "id": "simile",
+    "name": "Simile",
+    "definition": "A figure of speech involving the comparison of one thing with another thing of a different kind, using 'like' or 'as'.",
+    "simpleExplanation": "Comparing two things using 'like' or 'as'.",
+    "advancedExplanation": "A comparative device that explicitly acknowledges the artifice of the comparison, often allowing for more distance and conscious reflection than a metaphor.",
+    "purpose": "To make a description more vivid and easily understandable by relating it to something familiar.",
+    "whyAuthorsUseIt": "To clarify a complex emotion or visual by drawing a direct, easily digestible parallel for the reader.",
+    "psychologicalEffect": "Provides a conceptual bridge for the reader, making the unfamiliar feel instantly familiar.",
+    "readerEffect": "The reader gains immediate visual clarity regarding a character or setting.",
+    "emotionalEffect": "Varies based on the comparison, but often creates a sudden flash of understanding.",
+    "commonExamUses": [
+      "Describing unfamiliar settings",
+      "Character introductions",
+      "Poetic imagery"
+    ],
+    "commonMistakes": [
+      "Listing the simile without explaining WHY that specific comparison was chosen."
+    ],
+    "differenceFromSimilar": "A metaphor says X *is* Y. A simile says X is *like* Y. Similes are explicitly comparative.",
+    "literaryExample": "\"I wandered lonely as a cloud...\" (William Wordsworth)",
+    "everydayExample": "She is as brave as a lion.",
+    "realExamples": [
+      {
+        "quote": "The very mystery of him excited her curiosity like a door that had neither lock nor key.",
+        "source": "Oscar Wilde, The Picture of Dorian Gray",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "Why does the author use a simile instead of just describing the character's anger directly?",
+      "options": [
+        "Because similes are required in poetry.",
+        "Because saying 'he was angry like a volcano' maps the destructive, uncontrollable connotations of a volcano onto his emotion.",
+        "To make the sentence longer."
+      ],
+      "correctIndex": 1,
+      "explanation": "Similes don't just state facts; they attach the emotional weight of the compared object to the subject."
+    },
+    "practiceSentence": "The simile 'like a [X]' serves to highlight...",
+    "ibLevel7Analysis": "The simile comparing the old man's hands to 'twisted roots' does more than provide visual imagery; it organically connects him to the earth, connoting a lifetime of weathered endurance and anchoring him as a permanent, almost natural fixture of the rural landscape.",
+    "memoryTrick": "Simile has an 'i' and an 'l' = 'like'.",
+    "difficultyLevel": "Beginner",
+    "frequencyInExams": "Very High",
+    "relatedDevices": [
+      "Metaphor",
+      "Imagery",
+      "Analogy"
+    ],
+    "tags": [
+      "Imagery",
+      "Figurative Language",
+      "Comparison"
+    ]
+  },
+  {
+    "id": "personification",
+    "name": "Personification",
+    "definition": "The attribution of a personal nature or human characteristics to something nonhuman, or the representation of an abstract quality in human form.",
+    "simpleExplanation": "Giving human qualities to things that aren't human (like animals, objects, or weather).",
+    "advancedExplanation": "An anthropomorphic technique that projects human consciousness onto the inanimate world, often used to reflect a character's internal psychological state (pathetic fallacy) or to frame nature as an active, sometimes hostile, participant in the narrative.",
+    "purpose": "To make abstract concepts relatable, to create atmosphere, or to show how a character's emotions color their perception of the world.",
+    "whyAuthorsUseIt": "To breathe life into the setting, making it an active force rather than a passive backdrop.",
+    "psychologicalEffect": "Creates a sense of animism, making the reader feel that the environment is watching or reacting.",
+    "readerEffect": "The reader feels a deeper emotional connection (or threat) from the setting.",
+    "emotionalEffect": "Can create comfort (a welcoming home) or terror (a hostile, creeping fog).",
+    "commonExamUses": [
+      "Setting descriptions (Pathetic Fallacy)",
+      "Describing the power of nature",
+      "Poetry about abstract concepts (Death, Time)"
+    ],
+    "commonMistakes": [
+      "Confusing it with zoomorphism (giving animal traits to humans).",
+      "Failing to analyze *what kind* of human trait is given (is the wind angry? mournful? gentle?)."
+    ],
+    "differenceFromSimilar": "Pathetic fallacy is a specific type of personification where the weather/nature reflects human emotions.",
+    "literaryExample": "\"Because I could not stop for Death – He kindly stopped for me –\" (Emily Dickinson)",
+    "everydayExample": "The wind howled through the night.",
+    "realExamples": [
+      {
+        "quote": "The houses were blind, their windows shut tight against the storm.",
+        "source": "Unknown",
+        "difficulty": "Beginner"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "What is the effect of personifying the houses as 'blind'?",
+      "options": [
+        "It implies the townspeople inside cannot physically see.",
+        "It creates a sense of vulnerability, isolation, and deliberate ignorance toward the outside threat.",
+        "It shows that the houses are old."
+      ],
+      "correctIndex": 1,
+      "explanation": "Giving the houses human 'blindness' transfers the psychological state of willful ignorance to the setting itself."
+    },
+    "practiceSentence": "By personifying the [object] as [human trait], the author creates a sense of...",
+    "ibLevel7Analysis": "Dickinson's personification of Death as a 'kindly' carriage driver subverts traditional gothic expectations. By attributing polite, gentlemanly qualities to humanity's greatest fear, she strips Death of its terror, framing mortality not as a violent end, but as a courteous, inevitable escort into eternity.",
+    "memoryTrick": "PERSON-ification = turning things into a PERSON.",
+    "difficultyLevel": "Beginner",
+    "frequencyInExams": "High",
+    "relatedDevices": [
+      "Pathetic Fallacy",
+      "Anthropomorphism",
+      "Zoomorphism"
+    ],
+    "tags": [
+      "Imagery",
+      "Figurative Language",
+      "Setting"
+    ]
+  },
+  {
+    "id": "hyperbole",
+    "name": "Hyperbole",
+    "definition": "Exaggerated statements or claims not meant to be taken literally.",
+    "simpleExplanation": "Massive exaggeration for effect.",
+    "advancedExplanation": "A rhetorical device of extreme exaggeration used to heighten emotional impact, create satirical distance, or demonstrate the unreliable, overwhelmed nature of a first-person narrator.",
+    "purpose": "To emphasize the magnitude of a feeling, event, or trait, often to the point of absurdity.",
+    "whyAuthorsUseIt": "To convey the subjective intensity of an experience rather than the objective reality.",
+    "psychologicalEffect": "Stretches the reader's imagination to its limit, forcing them to feel the extremity of the emotion.",
+    "readerEffect": "The reader recognizes the impossibility but absorbs the underlying emotional truth.",
+    "emotionalEffect": "Humor, sheer terror, overwhelming love, or deep exhaustion.",
+    "commonExamUses": [
+      "Satire and caricature",
+      "Romantic poetry",
+      "Expressions of extreme grief or panic"
+    ],
+    "commonMistakes": [
+      "Taking it literally and assuming the author is just lying.",
+      "Forgetting to explain what the exaggeration reveals about the character's mindset."
+    ],
+    "differenceFromSimilar": "Understatement (litotes) is the exact opposite of hyperbole.",
+    "literaryExample": "\"I loved Ophelia: forty thousand brothers could not, with all their quantity of love, make up my sum.\" (Shakespeare, Hamlet)",
+    "everydayExample": "I have a million things to do today.",
+    "realExamples": [
+      {
+        "quote": "A day was twenty-four hours long but seemed longer. There was no hurry, for there was nowhere to go, nothing to buy and no money to buy it with.",
+        "source": "Harper Lee, To Kill a Mockingbird",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "What is the purpose of Hamlet claiming he has the love of 'forty thousand brothers'?",
+      "options": [
+        "He is mathematically calculating his love.",
+        "The hyperbole emphasizes his desperate, unhinged grief and his desire to prove his superiority over Laertes.",
+        "He literally believes he is forty thousand men."
+      ],
+      "correctIndex": 1,
+      "explanation": "The extreme exaggeration highlights Hamlet's manic emotional state and his competitive grief."
+    },
+    "practiceSentence": "The hyperbolic statement '[quote]' emphasizes the sheer magnitude of...",
+    "ibLevel7Analysis": "The narrator's hyperbolic assertion that she 'died a thousand times' does more than quantify her embarrassment; it reveals a fragile, highly dramatic adolescent psyche where social missteps are equated with literal, repeated mortality, capturing the intense subjectivity of youth.",
+    "memoryTrick": "Hyper = excessive. Bole = throw. Throwing things out of proportion.",
+    "difficultyLevel": "Beginner",
+    "frequencyInExams": "Medium",
+    "relatedDevices": [
+      "Understatement",
+      "Satire",
+      "Caricature"
+    ],
+    "tags": [
+      "Rhetoric",
+      "Figurative Language",
+      "Humor"
+    ]
+  },
+  {
+    "id": "alliteration",
+    "name": "Alliteration",
+    "definition": "The occurrence of the same letter or sound at the beginning of adjacent or closely connected words.",
+    "simpleExplanation": "Words starting with the same sound placed close together.",
+    "advancedExplanation": "A phonetic structural device used to interlink words conceptually, dictate the tempo of a line, or mimic the auditory qualities of the subject being described (e.g., harsh 'k' sounds for violence).",
+    "purpose": "To create rhythm, draw attention to a specific phrase, or mimic a sound related to the theme.",
+    "whyAuthorsUseIt": "To make poetry musical, or to aggressively highlight a specific string of words so they stick in the reader's memory.",
+    "psychologicalEffect": "Creates a subconscious phonetic link between the alliterated words, forcing the brain to associate their meanings.",
+    "readerEffect": "The reader slows down or speeds up depending on the sound, and remembers the phrase more easily.",
+    "emotionalEffect": "Varies by sound (sibilance/s = sinister or soothing; plosive/p/b = violent, aggressive).",
+    "commonExamUses": [
+      "Poetry analysis (sound and rhythm)",
+      "Advertising/Persuasive speeches",
+      "Descriptive prose"
+    ],
+    "commonMistakes": [
+      "Identifying it without explaining the EFFECT of the specific sound (e.g., 'The author uses alliteration to make it flow' = Level 4)."
+    ],
+    "differenceFromSimilar": "Assonance is repeated vowel sounds inside words; consonance is repeated consonant sounds anywhere; alliteration is specifically the *start* of the word.",
+    "literaryExample": "\"From forth the fatal loins of these two foes...\" (Shakespeare, Romeo and Juliet)",
+    "everydayExample": "Peter Piper picked a peck of pickled peppers.",
+    "realExamples": [
+      {
+        "quote": "The fair breeze blew, the white foam flew, / The furrow followed free...",
+        "source": "Samuel Taylor Coleridge, The Rime of the Ancient Mariner",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "What is the effect of the 'f' sound alliteration in 'fatal loins of these two foes'?",
+      "options": [
+        "It makes the line sound pretty.",
+        "The fricative 'f' sound creates a harsh, spitting rhythm that emphasizes the bitterness and venom of the family feud.",
+        "It forces the actor to breathe heavily."
+      ],
+      "correctIndex": 1,
+      "explanation": "You must analyze the *type* of sound. 'F' is a harsh, breathy fricative that can sound aggressive or frustrated."
+    },
+    "practiceSentence": "The alliteration of the harsh [letter] sound mimics the...",
+    "ibLevel7Analysis": "The plosive alliteration in 'battered, bleeding, and broken' creates a percussive, violent auditory rhythm. By forcing the reader's lips to repeatedly pop on the harsh 'b' consonant, the author phonetically simulates the physical blows suffered by the protagonist, making the violence visceral rather than merely descriptive.",
+    "memoryTrick": "All-iteration = All the same letters at the start.",
+    "difficultyLevel": "Beginner",
+    "frequencyInExams": "Very High",
+    "relatedDevices": [
+      "Assonance",
+      "Consonance",
+      "Sibilance"
+    ],
+    "tags": [
+      "Sound",
+      "Poetry",
+      "Rhythm"
+    ]
+  },
+  {
+    "id": "assonance",
+    "name": "Assonance",
+    "definition": "The repetition of the sound of a vowel in non-rhyming stressed syllables near enough to each other for the echo to be discernible.",
+    "simpleExplanation": "Repeating vowel sounds inside words to create an internal rhyme or mood.",
+    "advancedExplanation": "A subtle phonetic device that creates internal harmony or dissonance. Elongated vowel sounds (like 'o' or 'oo') can create a melancholic, dragging pace, while short vowels (like 'i' or 'e') can create a sharp, frantic energy.",
+    "purpose": "To control pacing, establish mood, and create musicality without the obviousness of end-rhyme.",
+    "whyAuthorsUseIt": "To subconsciously influence the reader's emotional state by manipulating the physical shape of their mouth and breath as they read.",
+    "psychologicalEffect": "Creates a haunting, echoing effect in the mind, often emphasizing themes of sorrow, distance, or unity.",
+    "readerEffect": "The reader feels the mood (gloomy, energetic, tense) through the physical act of vocalizing the text.",
+    "emotionalEffect": "Long vowels = sorrow, lethargy, distance. Short vowels = panic, speed, sharpness.",
+    "commonExamUses": [
+      "Poetry analysis",
+      "Stream of consciousness prose",
+      "Elevated, lyrical descriptions"
+    ],
+    "commonMistakes": [
+      "Saying it just 'sounds nice'. You must link the vowel sound to the mood."
+    ],
+    "differenceFromSimilar": "Alliteration is the start of the word; Assonance is the vowels inside the word.",
+    "literaryExample": "\"Hear the mellow wedding bells\" (Edgar Allan Poe)",
+    "everydayExample": "The rain in Spain stays mainly in the plain.",
+    "realExamples": [
+      {
+        "quote": "And so, all the night-tide, I lie down by the side / Of my darling—my darling—my life and my bride...",
+        "source": "Edgar Allan Poe, Annabel Lee",
+        "difficulty": "Advanced"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "What is the effect of the repeating 'i' sound (night-tide, lie, side, life, bride) in Poe's poem?",
+      "options": [
+        "It speeds up the poem to show happiness.",
+        "The long 'i' sound forces the mouth open into a wail, creating a drawn-out, mournful echo that mirrors his eternal grief.",
+        "It makes the poem rhyme randomly."
+      ],
+      "correctIndex": 1,
+      "explanation": "Long vowel sounds physically force a slower reading pace and often mimic sounds of moaning or sorrow."
+    },
+    "practiceSentence": "The assonance of the long [vowel] sound creates a lingering sense of...",
+    "ibLevel7Analysis": "Poe relies heavily on the assonance of the elongated 'o' sound ('moaning', 'cold', 'old'). This phonetic choice forces a sluggish, dragging articulation from the reader, aurally mimicking the hollow, inescapable depression that has consumed the speaker's mind.",
+    "memoryTrick": "AssOnAnce = focuses on VOWELS (A, O, E).",
+    "difficultyLevel": "Intermediate",
+    "frequencyInExams": "Medium",
+    "relatedDevices": [
+      "Alliteration",
+      "Consonance",
+      "Internal Rhyme"
+    ],
+    "tags": [
+      "Sound",
+      "Poetry",
+      "Rhythm"
+    ]
+  },
+  {
+    "id": "foreshadowing",
+    "name": "Foreshadowing",
+    "definition": "A warning or indication of a future event.",
+    "simpleExplanation": "Giving hints about what is going to happen later in the story.",
+    "advancedExplanation": "A structural narrative device used to build suspense, create fatalistic inevitability, or prepare the reader's subconscious for a thematic shift. It ensures that plot twists feel earned rather than arbitrary.",
+    "purpose": "To build tension, create a sense of inevitable tragedy, and unify the narrative structure.",
+    "whyAuthorsUseIt": "To keep the reader hooked and to make the climax feel thematically resonant and predetermined.",
+    "psychologicalEffect": "Implants a seed of anxiety or anticipation in the reader's mind, making them hyper-aware of symbols and setting.",
+    "readerEffect": "The reader feels a sense of dread or excitement, anticipating the payoff.",
+    "emotionalEffect": "Suspense, anxiety, or a sense of inescapable doom.",
+    "commonExamUses": [
+      "Analyzing the opening paragraphs of a novel",
+      "Pathetic fallacy used as a warning",
+      "Symbolic omens"
+    ],
+    "commonMistakes": [
+      "Spotting foreshadowing on a first read (you usually only spot it in hindsight).",
+      "Not explaining *how* it prepares the reader thematically."
+    ],
+    "differenceFromSimilar": "Unlike a flashback (looking back), foreshadowing looks forward, planting seeds for the future.",
+    "literaryExample": "In 'Of Mice and Men', the death of Candy's old dog heavily foreshadows the tragic fate of Lennie.",
+    "everydayExample": "The sky turned dark and the wind picked up just as they walked into the abandoned house.",
+    "realExamples": [
+      {
+        "quote": "A cold wind blew through the corridor, extinguishing the single candle just as she reached for the door handle.",
+        "source": "Generic Gothic Prose",
+        "difficulty": "Beginner"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "Why would an author foreshadow a tragic ending rather than just surprising the reader?",
+      "options": [
+        "Because surprises are bad writing.",
+        "To establish a fatalistic tone, making the tragedy feel inevitable and therefore more emotionally devastating.",
+        "To make the book shorter."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tragedy is often more impactful when the reader knows it's coming but is powerless to stop it."
+    },
+    "practiceSentence": "The subtle imagery of [X] acts as foreshadowing, establishing a tone of...",
+    "ibLevel7Analysis": "The early, seemingly innocuous description of the decaying oak tree operates as structural foreshadowing. By establishing imagery of internal rot masked by a strong exterior, the author prepares the reader for the patriarch's eventual psychological collapse, framing his downfall as an inevitable natural decay rather than a sudden accident.",
+    "memoryTrick": "Fore (before) + Shadow = Seeing the shadow of something before it arrives.",
+    "difficultyLevel": "Beginner",
+    "frequencyInExams": "High",
+    "relatedDevices": [
+      "Motif",
+      "Symbolism",
+      "Pathetic Fallacy"
+    ],
+    "tags": [
+      "Structure",
+      "Plot",
+      "Suspense"
+    ]
+  },
+  {
+    "id": "dramatic-irony",
+    "name": "Dramatic Irony",
+    "definition": "A literary technique where the audience's or reader's understanding of events or individuals in a work surpasses that of its characters.",
+    "simpleExplanation": "When the reader knows something important that the character doesn't know.",
+    "advancedExplanation": "A structural device that places the audience in a position of omniscient superiority, generating profound tension, suspense, or tragic pity as characters blindly walk toward their fate.",
+    "purpose": "To create suspense, emphasize tragedy, or generate dark comedy.",
+    "whyAuthorsUseIt": "To make the audience feel actively involved and emotionally stressed by the characters' ignorance.",
+    "psychologicalEffect": "Creates a deeply uncomfortable or thrilling sense of anticipation and helplessness in the reader.",
+    "readerEffect": "The reader feels anxious, wanting to warn the characters.",
+    "emotionalEffect": "Frustration, dread, suspense, or pity.",
+    "commonExamUses": [
+      "Shakespearean plays (e.g. Macbeth, Romeo and Juliet)",
+      "Thrillers",
+      "Tragedies"
+    ],
+    "commonMistakes": [
+      "Just calling it 'irony'. There are three types of irony; you must specify *dramatic* irony.",
+      "Failing to explain how the irony affects the TENSION of the scene."
+    ],
+    "differenceFromSimilar": "Situational irony is when the opposite of what's expected happens. Dramatic irony is strictly about a difference in KNOWLEDGE.",
+    "literaryExample": "In Romeo and Juliet, the audience knows Juliet is only asleep, but Romeo believes she is dead.",
+    "everydayExample": "In a horror movie, the audience sees the killer hiding in the closet, but the character walks into the room unaware.",
+    "realExamples": [
+      {
+        "quote": "'There's no art / To find the mind's construction in the face: / He was a gentleman on whom I built / An absolute trust.' (Enter MACBETH)",
+        "source": "Shakespeare, Macbeth",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "What makes King Duncan's line about trust dramatically ironic?",
+      "options": [
+        "Duncan doesn't trust anyone.",
+        "The audience knows Macbeth is planning to murder him, but Duncan just called him trustworthy.",
+        "Macbeth is secretly a woman."
+      ],
+      "correctIndex": 1,
+      "explanation": "The audience knows Macbeth's dark intentions, making Duncan's misplaced trust tragic and tense."
+    },
+    "practiceSentence": "The dramatic irony heightens the tension by...",
+    "ibLevel7Analysis": "Shakespeare exploits dramatic irony to its fullest when Duncan expresses 'absolute trust' in Macbeth just seconds before the traitor enters. This structural timing does not merely create suspense; it emphasizes Duncan's tragic flaw of gullibility and casts Macbeth's impending betrayal in an even more insidious, morally corrupt light.",
+    "memoryTrick": "DRAMATIC irony = typical in a DRAMA (play) where the audience watches the stage.",
+    "difficultyLevel": "Intermediate",
+    "frequencyInExams": "Very High",
+    "relatedDevices": [
+      "Situational Irony",
+      "Foreshadowing"
+    ],
+    "tags": [
+      "Irony",
+      "Structure",
+      "Suspense"
+    ]
+  },
+  {
+    "id": "situational-irony",
+    "name": "Situational Irony",
+    "definition": "Irony involving a situation in which actions have an effect that is opposite from what was intended.",
+    "simpleExplanation": "When the exact opposite of what you expect to happen, happens.",
+    "advancedExplanation": "A narrative device used to highlight the absurdity of human endeavor, the unpredictability of fate, or the hypocrisy of societal institutions.",
+    "purpose": "To subvert expectations, create dark humor, or critique a specific system.",
+    "whyAuthorsUseIt": "To demonstrate that characters are not in control of their destinies, or to expose the flaws in a character's logic.",
+    "psychologicalEffect": "Creates a sudden subversion of the brain's predictive models, resulting in shock or cynical humor.",
+    "readerEffect": "The reader feels surprised and is forced to reconsider the themes of fate or human folly.",
+    "emotionalEffect": "Cynicism, shock, or dark amusement.",
+    "commonExamUses": [
+      "Satire",
+      "Short stories with twist endings",
+      "War poetry"
+    ],
+    "commonMistakes": [
+      "Confusing it with bad luck. Getting a flat tire isn't ironic. A tow truck getting a flat tire is ironic."
+    ],
+    "differenceFromSimilar": "Verbal irony is sarcasm (saying the opposite). Situational irony is the EVENT being the opposite.",
+    "literaryExample": "A fire station burning down.",
+    "everydayExample": "A marriage counselor filing for divorce.",
+    "realExamples": [
+      {
+        "quote": "The story of an hour... where a woman rejoices at her husband's death, only for him to walk through the door, causing her to die of a heart attack.",
+        "source": "Kate Chopin, The Story of an Hour",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "Why is the ending of Chopin's story situationally ironic?",
+      "options": [
+        "Because heart attacks are sad.",
+        "Because the doctors think she died of 'joy that kills', but the reader knows she died of devastating disappointment.",
+        "Because her husband was a bad man."
+      ],
+      "correctIndex": 1,
+      "explanation": "The expected outcome (her being happy her husband is alive) is violently subverted by the reality of her oppressive marriage."
+    },
+    "practiceSentence": "The situational irony reveals the inherent absurdity of...",
+    "ibLevel7Analysis": "The situational irony of the final diagnosis—'the joy that kills'—serves as a brutal critique of patriarchal medicine and society. The male doctors completely misinterpret her death, ironically proving exactly why she felt so imprisoned in her marriage: a total lack of understanding and autonomy regarding her internal emotional life.",
+    "memoryTrick": "SITUATIONAL irony = the SITUATION itself is backwards.",
+    "difficultyLevel": "Intermediate",
+    "frequencyInExams": "High",
+    "relatedDevices": [
+      "Verbal Irony",
+      "Satire"
+    ],
+    "tags": [
+      "Irony",
+      "Plot",
+      "Theme"
+    ]
+  },
+  {
+    "id": "symbolism",
+    "name": "Symbolism",
+    "definition": "The use of symbols to represent ideas or qualities.",
+    "simpleExplanation": "When an object stands for a much bigger, abstract idea.",
+    "advancedExplanation": "A representational device where tangible objects are imbued with abstract, cultural, or emotional significance, allowing authors to explore complex themes implicitly rather than explicitly.",
+    "purpose": "To add depth, convey complex themes succinctly, and engage the reader's interpretive skills.",
+    "whyAuthorsUseIt": "To communicate universal truths through specific, concrete items.",
+    "psychologicalEffect": "Engages the reader's abstract thinking, connecting the physical world of the text to the philosophical world of the theme.",
+    "readerEffect": "The reader looks beyond the literal surface of the text.",
+    "emotionalEffect": "Resonance, depth, and intellectual satisfaction.",
+    "commonExamUses": [
+      "Analyzing key objects in prose",
+      "Interpreting poetry",
+      "Paper 1 visual analysis (symbols in ads)"
+    ],
+    "commonMistakes": [
+      "Assuming a symbol means the same thing in every book. (e.g., Water often means purification, but it can also mean drowning and death)."
+    ],
+    "differenceFromSimilar": "A metaphor compares two things. A symbol IS one thing that stands in for an abstract concept.",
+    "literaryExample": "The conch shell in Lord of the Flies representing civilization and order.",
+    "everydayExample": "A red rose representing romantic love.",
+    "realExamples": [
+      {
+        "quote": "He carried a strobe light and the responsibility for the lives of his men.",
+        "source": "Tim O'Brien, The Things They Carried",
+        "difficulty": "Beginner"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "What does the physical 'strobe light' symbolize in O'Brien's quote?",
+      "options": [
+        "His fear of the dark.",
+        "The literal and metaphorical weight of leadership and the impossible desire to provide clarity in the chaos of war.",
+        "His desire to go to a party."
+      ],
+      "correctIndex": 1,
+      "explanation": "The physical object is paired directly with the abstract concept of responsibility, showing how physical items carry emotional weight."
+    },
+    "practiceSentence": "The [object] acts as a powerful symbol for...",
+    "ibLevel7Analysis": "The shattered mirror functions as a multifaceted symbol of the protagonist's fractured identity. Rather than merely reflecting her physical decline, the jagged shards represent her inability to reconcile her past self with her current trauma, physically manifesting her psychological dissonance.",
+    "memoryTrick": "Symbolism = Something stands for Something.",
+    "difficultyLevel": "Beginner",
+    "frequencyInExams": "Very High",
+    "relatedDevices": [
+      "Motif",
+      "Allegory"
+    ],
+    "tags": [
+      "Figurative Language",
+      "Imagery",
+      "Theme"
+    ]
+  },
+  {
+    "id": "verbal-irony",
+    "name": "Verbal Irony",
+    "definition": "When words express something contrary to truth or someone says the opposite of what they really feel or mean.",
+    "simpleExplanation": "Saying the opposite of what you actually mean (often sarcasm).",
+    "advancedExplanation": "A rhetorical device used to highlight hypocrisy, express contempt, or create humor by widening the gap between literal syntax and intended semantic meaning.",
+    "purpose": "To critique, mock, or highlight absurdity without explicitly stating it.",
+    "whyAuthorsUseIt": "To create a sharp, bitter, or witty tone, allowing characters to subversively attack others while maintaining plausible deniability.",
+    "psychologicalEffect": "Requires the reader to read 'between the lines', creating a sense of complicity between the author and the reader.",
+    "readerEffect": "The reader feels a sense of intellectual superiority or dark amusement.",
+    "emotionalEffect": "Humor, bitterness, or cynicism.",
+    "commonExamUses": [
+      "Satire",
+      "Dialogue between hostile characters",
+      "Narrative voice in dystopian texts"
+    ],
+    "commonMistakes": [
+      "Thinking verbal irony and sarcasm are identical. Sarcasm is a *type* of verbal irony meant to hurt someone. Verbal irony isn't always malicious."
+    ],
+    "differenceFromSimilar": "Situational irony = opposite action. Dramatic irony = opposite knowledge. Verbal irony = opposite words.",
+    "literaryExample": "\"For Brutus is an honourable man; So are they all, all honourable men.\" (Shakespeare, Julius Caesar - said while proving Brutus is a traitor).",
+    "everydayExample": "Saying 'Oh, fantastic' when your car breaks down.",
+    "realExamples": [
+      {
+        "quote": "I rather recommend buying the children alive, and dressing them hot from the knife, as we do roasting pigs.",
+        "source": "Jonathan Swift, A Modest Proposal",
+        "difficulty": "Advanced"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "Why does Swift use verbal irony to suggest eating children?",
+      "options": [
+        "He actually hates children.",
+        "To highlight the sheer absurdity and monstrous cruelty of the British government's policies toward the Irish poor.",
+        "He is writing a cookbook."
+      ],
+      "correctIndex": 1,
+      "explanation": "By proposing something unimaginably horrific with a calm, logical tone, he forces the reader to realize that the current political reality is equally monstrous."
+    },
+    "practiceSentence": "Through verbal irony, the speaker thinly veils their critique of...",
+    "ibLevel7Analysis": "Antony's relentless repetition of 'honourable man' functions as a masterful exercise in verbal irony. By feigning deference to the conspirators, he weaponizes the literal meaning of the word against them, subtly manipulating the plebeians into recognizing the complete absence of honor in Caesar's assassination.",
+    "memoryTrick": "VERBAL irony = related to VERBS/WORDS (saying it out loud).",
+    "difficultyLevel": "Intermediate",
+    "frequencyInExams": "High",
+    "relatedDevices": [
+      "Sarcasm",
+      "Satire"
+    ],
+    "tags": [
+      "Irony",
+      "Dialogue",
+      "Tone"
+    ]
+  },
+  {
+    "id": "allusion",
+    "name": "Allusion",
+    "definition": "An expression designed to call something to mind without mentioning it explicitly; an indirect or passing reference.",
+    "simpleExplanation": "A subtle reference to a famous person, place, book, or historical event.",
+    "advancedExplanation": "An intertextual device that borrows the emotional resonance or cultural authority of a previous work, compressing vast amounts of meaning into a single passing reference.",
+    "purpose": "To create a shared cultural connection, elevate the text, or draw a parallel between characters and historical figures.",
+    "whyAuthorsUseIt": "To instantly establish a mood or trait by associating it with something the reader already knows (like calling a traitor 'Judas').",
+    "psychologicalEffect": "Rewards the reader for their cultural knowledge, making them feel like an insider.",
+    "readerEffect": "The reader instantly imports the context of the alluded work into the current text.",
+    "emotionalEffect": "Awe, irony, or deep resonance.",
+    "commonExamUses": [
+      "Biblical allusions",
+      "Mythological allusions",
+      "Historical references"
+    ],
+    "commonMistakes": [
+      "Confusing it with 'illusion' (a magic trick or fake image).",
+      "Not explaining WHAT the allusion imports into the text."
+    ],
+    "differenceFromSimilar": "An allusion references outside literature/history. An illusion is a deceptive appearance.",
+    "literaryExample": "\"He was a real Romeo with the ladies.\"",
+    "everydayExample": "\"Don't act like a Scrooge!\"",
+    "realExamples": [
+      {
+        "quote": "The title 'Of Mice and Men' alluding to Robert Burns' poem 'To a Mouse'.",
+        "source": "John Steinbeck",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "Why does an author use a Biblical allusion rather than just inventing a new metaphor?",
+      "options": [
+        "Because they are unoriginal.",
+        "To instantly harness thousands of years of cultural and emotional weight, elevating the seriousness of their own text.",
+        "Because they have to."
+      ],
+      "correctIndex": 1,
+      "explanation": "Allusions act as shortcuts to massive amounts of thematic weight."
+    },
+    "practiceSentence": "The allusion to [X] serves to parallel the protagonist's journey with...",
+    "ibLevel7Analysis": "The poet's subtle allusion to the Garden of Eden does more than establish a natural setting; it inextricably links the lovers' relationship to the concept of original sin. This intertextual echo foreshadows their inevitable fall from grace, casting a shadow of fatalistic doom over their temporary paradise.",
+    "memoryTrick": "Allusion = to ALLUDE (refer to) something.",
+    "difficultyLevel": "Intermediate",
+    "frequencyInExams": "High",
+    "relatedDevices": [
+      "Intertextuality",
+      "Foreshadowing"
+    ],
+    "tags": [
+      "Context",
+      "Theme"
+    ]
+  },
+  {
+    "id": "onomatopoeia",
+    "name": "Onomatopoeia",
+    "definition": "The formation of a word from a sound associated with what is named.",
+    "simpleExplanation": "Words that sound like the sound they describe (e.g. boom, crash, sizzle).",
+    "advancedExplanation": "An auditory device that breaks the barrier between text and reality, forcing the reader to physically simulate the auditory environment of the narrative, thereby increasing visceral immersion.",
+    "purpose": "To bring a scene to life auditorily, making the action feel immediate and tangible.",
+    "whyAuthorsUseIt": "To bypass visual description and assault the reader's senses directly with sound.",
+    "psychologicalEffect": "Triggers the auditory cortex in the brain, making the reading experience multi-sensory.",
+    "readerEffect": "The reader 'hears' the text rather than just reading it.",
+    "emotionalEffect": "Immersion, chaos, violence, or natural beauty.",
+    "commonExamUses": [
+      "War poetry",
+      "Descriptions of nature",
+      "Creating a chaotic atmosphere"
+    ],
+    "commonMistakes": [
+      "Pointing it out without analyzing the *atmosphere* it creates. Does the 'buzz' create a lazy summer feel, or an annoying, tense feel?"
+    ],
+    "differenceFromSimilar": "Alliteration is repeated sounds. Onomatopoeia is a word that literally translates a real-world sound.",
+    "literaryExample": "\"The moan of doves in immemorial elms, / And murmuring of innumerable bees.\" (Tennyson)",
+    "everydayExample": "Bang, pop, hiss, sizzle.",
+    "realExamples": [
+      {
+        "quote": "I heard a Fly buzz - when I died -",
+        "source": "Emily Dickinson",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "Why does Dickinson use the onomatopoeic 'buzz' in a poem about death?",
+      "options": [
+        "To show that flies are annoying.",
+        "To intrude upon the solemn, silent moment of death with a mundane, physical, and irritating sound of the living world.",
+        "To make the poem rhyme."
+      ],
+      "correctIndex": 1,
+      "explanation": "The 'buzz' grounds a highly spiritual moment in ugly, physical reality."
+    },
+    "practiceSentence": "The onomatopoeic word '[X]' heightens the sensory experience by...",
+    "ibLevel7Analysis": "Dickinson's use of the onomatopoeic 'buzz' acts as a grotesque intrusion into the sacred moment of death. Rather than a grand spiritual transition, the auditory reality of a scavenging insect grounds the poem in mundane, physical mortality, subverting the reader's expectations of a peaceful afterlife.",
+    "memoryTrick": "Onomatopoeia is a really loud, chaotic word for loud, chaotic sounds.",
+    "difficultyLevel": "Beginner",
+    "frequencyInExams": "Medium",
+    "relatedDevices": [
+      "Alliteration",
+      "Assonance"
+    ],
+    "tags": [
+      "Sound",
+      "Imagery"
+    ]
+  },
+  {
+    "id": "sibilance",
+    "name": "Sibilance",
+    "definition": "A literary device where strongly stressed consonants are created deliberately by producing air from vocal tracts through the use of lips and tongue (hissing sounds).",
+    "simpleExplanation": "The repetition of 's', 'sh', or soft 'c' sounds to create a hissing effect.",
+    "advancedExplanation": "A specific form of consonance that exploits the acoustic properties of fricatives to evoke the auditory presence of snakes, wind, secrets, or sinister whispering.",
+    "purpose": "To create a sinister, secretive, or alternatively, a soothing, aquatic atmosphere.",
+    "whyAuthorsUseIt": "To phonetically mimic the action being described (like whispering or wind) and to manipulate the reader's breath.",
+    "psychologicalEffect": "The hissing sound can trigger primal associations with danger (snakes) or secrecy (whispers).",
+    "readerEffect": "The reader is forced to 'hiss' the words, bringing them physically into the sinister or soothing mood.",
+    "emotionalEffect": "Sinister dread, secrecy, or the soft lull of water/sleep.",
+    "commonExamUses": [
+      "Descriptions of villains",
+      "Poetry about water or sleep",
+      "Creating a creepy tone"
+    ],
+    "commonMistakes": [
+      "Assuming sibilance is ALWAYS evil. It can also mimic the soothing sound of the ocean ('the soft sighing of the sea')."
+    ],
+    "differenceFromSimilar": "Alliteration is the start of words. Sibilance is the repetition of the 'S' sound specifically, anywhere in the words.",
+    "literaryExample": "\"And the silken sad uncertain rustling of each purple curtain...\" (Edgar Allan Poe)",
+    "everydayExample": "She sells seashells by the seashore.",
+    "realExamples": [
+      {
+        "quote": "Season of mists and mellow fruitfulness, / Close bosom-friend of the maturing sun...",
+        "source": "John Keats, To Autumn",
+        "difficulty": "Intermediate"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "In Keats' poem, does the sibilance ('Season', 'mists', 'fruitfulness', 'sun') sound evil?",
+      "options": [
+        "Yes, autumn is evil.",
+        "No, here the soft 's' sounds create a slow, soothing, sleepy rhythm reflecting the lethargy of late autumn.",
+        "It has no effect."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sibilance can be harsh (hissing) OR soft (sighing/soothing). Always look at the context."
+    },
+    "practiceSentence": "The sibilance of the 's' sound mimics the...",
+    "ibLevel7Analysis": "The heavy sibilance in 'sinister, silent shadows' forces the reader to physically hiss the line, phonetically mimicking the serpentine, treacherous nature of the antagonist. This auditory manipulation ensures the reader feels the creeping threat on a sensory level before the narrative explicitly reveals it.",
+    "memoryTrick": "Sibilance = SSSSS sounds.",
+    "difficultyLevel": "Beginner",
+    "frequencyInExams": "High",
+    "relatedDevices": [
+      "Alliteration",
+      "Consonance"
+    ],
+    "tags": [
+      "Sound",
+      "Poetry",
+      "Atmosphere"
+    ]
+  },
+  {
+    "id": "zeugma",
+    "name": "Zeugma",
+    "definition": "A figure of speech in which a word applies to two others in different senses or to two others of which it semantically suits only one.",
+    "simpleExplanation": "Using one verb to control two very different things (one literal, one metaphorical).",
+    "advancedExplanation": "A sophisticated linguistic trick that forces the reader to rapidly shift between literal and abstract thought within a single sentence. It often highlights the tragic or absurd consequences of an action.",
+    "purpose": "To surprise the reader, create dark humor, or simultaneously show the physical and emotional toll of an event.",
+    "whyAuthorsUseIt": "To violently crash the physical world into the emotional world, showing how a single action damages both.",
+    "psychologicalEffect": "Creates a jarring 'double take' as the brain realizes the verb has shifted its meaning halfway through the sentence.",
+    "readerEffect": "The reader appreciates the wit or feels the sudden weight of the emotional consequence.",
+    "emotionalEffect": "Dark humor, tragedy, or profound realization.",
+    "commonExamUses": [
+      "Satire",
+      "Descriptions of grief",
+      "Complex character introspection"
+    ],
+    "commonMistakes": [
+      "Failing to recognize the shift between the literal and the figurative meaning."
+    ],
+    "differenceFromSimilar": "It is related to punning or double entendres, but zeugma strictly involves syntax (one verb controlling two nouns).",
+    "literaryExample": "\"He lost his coat and his temper.\"",
+    "everydayExample": "She broke his car and his heart.",
+    "realExamples": [
+      {
+        "quote": "Or stain her honour, or her new brocade.",
+        "source": "Alexander Pope, The Rape of the Lock",
+        "difficulty": "Advanced"
+      }
+    ],
+    "interactiveExercise": {
+      "question": "What is Pope satirizing when he worries a woman might stain her 'honour' or her 'new brocade' (dress)?",
+      "options": [
+        "He is worried about laundry.",
+        "He is mocking high society's warped priorities by equating the loss of moral virtue with getting a stain on an expensive dress.",
+        "He thinks dresses are more important than honor."
+      ],
+      "correctIndex": 1,
+      "explanation": "Zeugma is often used in satire to show how ridiculous a character's priorities are by putting something trivial next to something serious."
+    },
+    "practiceSentence": "The zeugma highlights the discrepancy between...",
+    "ibLevel7Analysis": "Pope’s masterful use of zeugma—where 'stain' applies simultaneously to the abstract concept of 'honour' and the literal 'brocade'—serves as a biting satirical critique of aristocracy. By structurally equating a moral failure with a fashion faux pas, he exposes the superficiality of a society that values appearances as highly as virtue.",
+    "memoryTrick": "Zeugma sounds like ZIG-ZAG. The meaning zig-zags from literal to metaphorical.",
+    "difficultyLevel": "Advanced",
+    "frequencyInExams": "Low",
+    "relatedDevices": [
+      "Pun",
+      "Satire"
+    ],
+    "tags": [
+      "Syntax",
+      "Satire",
+      "Humor"
+    ]
+  }
+]

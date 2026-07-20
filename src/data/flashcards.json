@@ -1,0 +1,92 @@
+[
+  {
+    "id": "fc-metaphor",
+    "device": "Metaphor",
+    "definition": "A direct comparison stating one thing IS another.",
+    "purpose": "To create vivid imagery and compress complex ideas.",
+    "example": "'All the world's a stage...'",
+    "ibAnalysis": "Establishes a fatalistic tone by stripping humanity of agency, reducing individuals to 'merely players'.",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "fc-enjambment",
+    "device": "Enjambment",
+    "definition": "Continuation of a sentence across a line break without punctuation.",
+    "purpose": "To accelerate pace, create urgency, or mimic fluid motion.",
+    "example": "'April is the cruellest month, breeding / Lilacs out of the dead land...'",
+    "ibAnalysis": "The lack of an end-stopped line forces the reader to rush forward, physically replicating the speaker's breathless anxiety.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "fc-caesura",
+    "device": "Caesura",
+    "definition": "A strong pause in the middle of a line of poetry.",
+    "purpose": "To disrupt rhythm, force reflection, or create a jarring effect.",
+    "example": "'To err is human; to forgive, divine.'",
+    "ibAnalysis": "The harsh medial punctuation fragments the verse, perfectly mirroring the speaker's psychological splintering.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "fc-juxtaposition",
+    "device": "Juxtaposition",
+    "definition": "Placing contrasting ideas side-by-side.",
+    "purpose": "To highlight extreme differences and create tension.",
+    "example": "'It was the best of times, it was the worst of times...'",
+    "ibAnalysis": "Establishes a structural dichotomy that forces the reader to recognize the extreme societal fracturing.",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "fc-semantic-field",
+    "device": "Semantic Field",
+    "definition": "A group of words related in meaning to a specific topic.",
+    "purpose": "To build atmosphere and subtly shape the reader's perception.",
+    "example": "Using 'scalpel', 'dissect', 'incision' for a conversation.",
+    "ibAnalysis": "Subverts expectations by framing a dialogue with clinical, violent diction, implying a hostile interrogation rather than communication.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "fc-anaphora",
+    "device": "Anaphora",
+    "definition": "Repetition of a word or phrase at the beginning of successive clauses.",
+    "purpose": "To build rhythm, emphasize a point, and create an emotional climax.",
+    "example": "'I have a dream... I have a dream...'",
+    "ibAnalysis": "Creates a sermon-like cadence that unifies the audience while elevating the thematic importance of the repeated concept.",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "fc-motif",
+    "device": "Motif",
+    "definition": "A recurring element or symbol in a text.",
+    "purpose": "To unify the narrative and track the development of a theme.",
+    "example": "The recurring imagery of blood in Macbeth.",
+    "ibAnalysis": "The motif mutates from a symbol of honor to an inescapable stain of guilt, charting the protagonist's moral decay.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "fc-asyndeton",
+    "device": "Asyndeton",
+    "definition": "Omission of conjunctions between coordinate phrases, clauses, or words.",
+    "purpose": "To speed up the rhythm of a sentence, creating a sense of urgency or overwhelming multiplicity.",
+    "example": "'I came, I saw, I conquered.'",
+    "ibAnalysis": "The absence of conjunctions accelerates the narrative pace, reflecting the swift, decisive, and overwhelming nature of the action.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "fc-polysyndeton",
+    "device": "Polysyndeton",
+    "definition": "The deliberate use of multiple conjunctions in close succession.",
+    "purpose": "To slow the pace, emphasize each item in a list, or create a sense of being overwhelmed.",
+    "example": "'We have ships and men and money and stores.'",
+    "ibAnalysis": "Forces the reader to pause at each conjunction, magnifying the volume and weight of the items listed, thereby emphasizing abundance or burden.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "fc-chiasmus",
+    "device": "Chiasmus",
+    "definition": "Reversal of grammatical structures in successive phrases or clauses.",
+    "purpose": "To create a highly stylized, memorable phrase that emphasizes a contrast or balance.",
+    "example": "'Ask not what your country can do for you; ask what you can do for your country.'",
+    "ibAnalysis": "The inverted structure forces the audience to re-evaluate their perspective, perfectly encapsulating a paradigm shift in responsibility.",
+    "difficulty": "Examiner"
+  }
+]
